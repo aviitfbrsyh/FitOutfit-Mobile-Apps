@@ -1,5 +1,5 @@
 <p align="center">
-<img src="FitOutfit/assets/logo.png" alt="Logo" width="350"/>
+<img src="assets/logo.png" alt="Logo" width="350"/>
 </p>
 
 <h1 align="center">👔 FitOutfit 👗</h1>
