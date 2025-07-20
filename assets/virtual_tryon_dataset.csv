@@ -1,0 +1,501 @@
+gender,body_shape,skin_tone,hair_color,personal_color,style,destination,weather,outfit_top,outfit_bottom,outfit_shoes,outfit_accessories,reason
+Male,Pear,Tan,Blonde,Summer,Casual,Campus,Cold & Windy,Striped t-shirt,A-line floral skirt,Black boots,"Waterproof trench coat, leather belt",Shoes are comfortable for long walks.
+Male,Hourglass,Light,Red,Summer,Streetwear,Campus,Mild & Pleasant,Pastel silk blouse,Jogger pants,Slip-on shoes,Statement necklace,Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Rectangle,Medium,Brown,Autumn,Formal,Job Interview,Rainy & Cool,Light blue oxford shirt,Slim-fit jeans,Espadrille sandals,"Beanie, scarf",Accessories add a personal touch to your look.
+Male,Pear,Tan,Blonde,Spring,Formal,Job Interview,Hot & Humid,Denim jacket,Pleated trousers,Flat sandals,"Straw hat, sunglasses",The outfit is easy to mix and match.
+Female,Hourglass,Light,Gray,Autumn,Formal,Travel,Rainy & Cool,Loose cotton tunic,A-line floral skirt,Flat sandals,"Straw hat, sunglasses",The outfit is easy to mix and match.
+Female,Triangle,Light,Blonde,Spring,Smart Casual,Campus,Cold & Windy,Oversized hoodie,Slim-fit jeans,White sneakers,"Pearl earrings, clutch bag",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Pear,Olive,Gray,Winter,Streetwear,Travel,Sunny & Warm,Loose cotton tunic,Maxi skirt,Nude heels,"Crossbody bag, floppy hat",Light fabrics keep you cool and accessories protect from the sun.
+Male,Apple,Dark,Brown,Summer,Casual,Hangout,Sunny & Warm,Striped t-shirt,Maxi skirt,Flat sandals,"Pearl earrings, clutch bag",Colors are chosen to match your personal palette.
+Male,Hourglass,Dark,Brown,Spring,Streetwear,Hangout,Rainy & Cool,Flowy tank top,Maxi skirt,Ballet flats,"Crossbody bag, floppy hat",Accessories add a personal touch to your look.
+Female,Triangle,Olive,Red,Winter,Formal,Campus,Hot & Humid,Loose cotton tunic,Pleated trousers,Slip-on shoes,"Waterproof trench coat, leather belt",Layering keeps you warm and stylish for casual outings.
+Female,Apple,Olive,Gray,Spring,Streetwear,Travel,Mild & Pleasant,Flowy tank top,High-waisted denim shorts,Brown loafers,"Straw hat, sunglasses",Layering keeps you warm and stylish for casual outings.
+Male,Rectangle,Medium,Red,Autumn,Formal,Formal Meeting,Sunny & Warm,White linen blouse,Slim-fit jeans,Slip-on shoes,"Leather backpack, watch",Light fabrics keep you cool and accessories protect from the sun.
+Male,Pear,Dark,Blonde,Autumn,Casual,Casual Outing,Hot & Humid,Flowy tank top,Cargo pants,Black boots,"Leather backpack, watch",Classic pieces ensure comfort and style.
+Male,Pear,Dark,Brown,Summer,Elegant,Job Interview,Sunny & Warm,Oversized hoodie,Slim-fit jeans,Brown loafers,"Pearl earrings, clutch bag",Light fabrics keep you cool and accessories protect from the sun.
+Female,Rectangle,Tan,Red,Autumn,Streetwear,Job Interview,Cold & Windy,Light blue oxford shirt,Navy chinos,High-top sneakers,"Leather backpack, watch",Colors are chosen to match your personal palette.
+Female,Triangle,Olive,Red,Winter,Bohemian,Formal Meeting,Cold & Windy,Pastel silk blouse,Pleated trousers,Espadrille sandals,"Waterproof trench coat, leather belt",Accessories add a personal touch to your look.
+Male,Hourglass,Dark,Gray,Winter,Bohemian,Campus,Sunny & Warm,Oversized hoodie,Pleated trousers,White sneakers,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Triangle,Olive,Black,Winter,Streetwear,Hangout,Mild & Pleasant,Pastel silk blouse,Wide-leg linen pants,Ballet flats,Statement necklace,Light fabrics keep you cool and accessories protect from the sun.
+Female,Apple,Medium,Red,Winter,Bohemian,Job Interview,Rainy & Cool,Flowy tank top,Jogger pants,Slip-on shoes,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Hourglass,Tan,Black,Winter,Streetwear,Beach,Sunny & Warm,Light blue oxford shirt,A-line floral skirt,Brown loafers,"Leather backpack, watch",Layering keeps you warm and stylish for casual outings.
+Male,Rectangle,Tan,Brown,Autumn,Bohemian,Casual Outing,Cold & Windy,White linen blouse,Maxi skirt,Ballet flats,Silk scarf,Accessories add a personal touch to your look.
+Female,Apple,Dark,Brown,Winter,Smart Casual,Casual Outing,Rainy & Cool,Flowy tank top,Slim-fit jeans,Black boots,"Beanie, scarf",The outfit is easy to mix and match.
+Male,Pear,Dark,Black,Winter,Formal,Travel,Mild & Pleasant,Loose cotton tunic,Jogger pants,Brown loafers,"Waterproof trench coat, leather belt",Colors are chosen to match your personal palette.
+Male,Triangle,Light,Brown,Summer,Elegant,Casual Outing,Mild & Pleasant,Striped t-shirt,Navy chinos,Slip-on shoes,Statement necklace,Shoes are comfortable for long walks.
+Male,Rectangle,Olive,Black,Summer,Streetwear,Campus,Hot & Humid,Polo shirt,Maxi skirt,Nude heels,Silk scarf,Classic pieces ensure comfort and style.
+Female,Triangle,Light,Blonde,Autumn,Casual,Campus,Rainy & Cool,Striped t-shirt,Jogger pants,Flat sandals,"Beanie, scarf",Layering keeps you warm and stylish for casual outings.
+Female,Rectangle,Dark,Gray,Spring,Bohemian,Campus,Sunny & Warm,Polo shirt,High-waisted denim shorts,Nude heels,"Waterproof trench coat, leather belt",Classic pieces ensure comfort and style.
+Male,Triangle,Tan,Blonde,Winter,Formal,Campus,Rainy & Cool,Pastel silk blouse,Cargo pants,White sneakers,Minimalist bracelet,Classic pieces ensure comfort and style.
+Male,Pear,Medium,Red,Summer,Elegant,Hangout,Rainy & Cool,Oversized hoodie,Maxi skirt,Nude heels,"Leather backpack, watch",Colors are chosen to match your personal palette.
+Male,Triangle,Tan,Blonde,Autumn,Elegant,Travel,Cold & Windy,Polo shirt,Maxi skirt,High-top sneakers,"Beanie, scarf",Classic pieces ensure comfort and style.
+Female,Rectangle,Light,Black,Winter,Streetwear,Wedding Invitation,Rainy & Cool,Denim jacket,Wide-leg linen pants,Black boots,"Leather backpack, watch",Colors are chosen to match your personal palette.
+Female,Triangle,Tan,Red,Spring,Casual,Beach,Hot & Humid,Flowy tank top,High-waisted denim shorts,Flat sandals,"Straw hat, sunglasses",Smart layers keep you dry and professional.
+Male,Pear,Light,Blonde,Spring,Bohemian,Hangout,Rainy & Cool,Striped t-shirt,Cargo pants,Slip-on shoes,"Beanie, scarf",Light fabrics keep you cool and accessories protect from the sun.
+Male,Apple,Tan,Gray,Spring,Casual,Beach,Cold & Windy,Denim jacket,Navy chinos,High-top sneakers,Statement necklace,Smart layers keep you dry and professional.
+Female,Hourglass,Tan,Black,Autumn,Elegant,Beach,Mild & Pleasant,Loose cotton tunic,High-waisted denim shorts,Espadrille sandals,"Straw hat, sunglasses",Classic pieces ensure comfort and style.
+Male,Apple,Light,Black,Summer,Casual,Job Interview,Sunny & Warm,White linen blouse,Navy chinos,Black boots,"Beanie, scarf",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Hourglass,Tan,Black,Spring,Elegant,Travel,Sunny & Warm,Denim jacket,Navy chinos,High-top sneakers,Silk scarf,Light fabrics keep you cool and accessories protect from the sun.
+Female,Pear,Light,Brown,Winter,Casual,Wedding Invitation,Hot & Humid,Flowy tank top,Navy chinos,Ballet flats,"Leather backpack, watch",Classic pieces ensure comfort and style.
+Male,Pear,Olive,Red,Spring,Formal,Travel,Mild & Pleasant,White linen blouse,Navy chinos,Flat sandals,"Waterproof trench coat, leather belt",The outfit is easy to mix and match.
+Male,Hourglass,Tan,Blonde,Winter,Smart Casual,Campus,Mild & Pleasant,Flowy tank top,Pleated trousers,White sneakers,"Pearl earrings, clutch bag",Layering keeps you warm and stylish for casual outings.
+Female,Hourglass,Olive,Red,Autumn,Elegant,Campus,Hot & Humid,Denim jacket,Wide-leg linen pants,Brown loafers,"Leather backpack, watch",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Hourglass,Dark,Red,Autumn,Elegant,Casual Outing,Sunny & Warm,Light blue oxford shirt,Pleated trousers,Flat sandals,Silk scarf,Colors are chosen to match your personal palette.
+Female,Rectangle,Dark,Black,Winter,Elegant,Campus,Sunny & Warm,Polo shirt,High-waisted denim shorts,Flat sandals,Silk scarf,Classic pieces ensure comfort and style.
+Female,Apple,Olive,Blonde,Autumn,Bohemian,Wedding Invitation,Rainy & Cool,White linen blouse,Wide-leg linen pants,Flat sandals,Statement necklace,Smart layers keep you dry and professional.
+Male,Apple,Medium,Gray,Winter,Streetwear,Campus,Cold & Windy,White linen blouse,Pleated trousers,Ballet flats,"Leather backpack, watch",Colors are chosen to match your personal palette.
+Female,Hourglass,Olive,Brown,Autumn,Formal,Travel,Hot & Humid,Light blue oxford shirt,Maxi skirt,White sneakers,Silk scarf,Accessories add a personal touch to your look.
+Male,Rectangle,Tan,Blonde,Winter,Formal,Formal Meeting,Mild & Pleasant,Denim jacket,Navy chinos,Ballet flats,Silk scarf,Classic pieces ensure comfort and style.
+Male,Rectangle,Dark,Brown,Spring,Elegant,Campus,Hot & Humid,Striped t-shirt,Jogger pants,High-top sneakers,Silk scarf,Classic pieces ensure comfort and style.
+Female,Pear,Light,Blonde,Winter,Formal,Formal Meeting,Rainy & Cool,Denim jacket,Navy chinos,White sneakers,"Beanie, scarf",Shoes are comfortable for long walks.
+Male,Triangle,Light,Brown,Autumn,Streetwear,Wedding Invitation,Cold & Windy,Striped t-shirt,Pleated trousers,Flat sandals,"Crossbody bag, floppy hat",Colors are chosen to match your personal palette.
+Female,Triangle,Tan,Blonde,Summer,Bohemian,Travel,Cold & Windy,Flowy tank top,High-waisted denim shorts,Black boots,Silk scarf,Light fabrics keep you cool and accessories protect from the sun.
+Female,Apple,Light,Brown,Spring,Casual,Beach,Mild & Pleasant,Oversized hoodie,High-waisted denim shorts,White sneakers,"Leather backpack, watch",Shoes are comfortable for long walks.
+Female,Triangle,Olive,Gray,Summer,Formal,Hangout,Mild & Pleasant,Pastel silk blouse,A-line floral skirt,Nude heels,"Leather backpack, watch",The outfit is easy to mix and match.
+Female,Pear,Light,Black,Spring,Streetwear,Job Interview,Rainy & Cool,Pastel silk blouse,High-waisted denim shorts,Flat sandals,"Pearl earrings, clutch bag",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Pear,Medium,Brown,Spring,Streetwear,Job Interview,Mild & Pleasant,Polo shirt,Cargo pants,Espadrille sandals,"Pearl earrings, clutch bag",Smart layers keep you dry and professional.
+Male,Rectangle,Dark,Gray,Autumn,Bohemian,Casual Outing,Cold & Windy,White linen blouse,A-line floral skirt,Ballet flats,"Pearl earrings, clutch bag",Colors are chosen to match your personal palette.
+Female,Triangle,Tan,Brown,Autumn,Smart Casual,Beach,Hot & Humid,Polo shirt,Jogger pants,Espadrille sandals,"Beanie, scarf",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Triangle,Tan,Blonde,Spring,Casual,Travel,Sunny & Warm,Pastel silk blouse,Navy chinos,White sneakers,Silk scarf,Shoes are comfortable for long walks.
+Male,Rectangle,Light,Brown,Winter,Formal,Beach,Sunny & Warm,Denim jacket,Pleated trousers,Espadrille sandals,Minimalist bracelet,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Triangle,Medium,Red,Autumn,Streetwear,Casual Outing,Sunny & Warm,Striped t-shirt,Cargo pants,Brown loafers,"Crossbody bag, floppy hat",Colors are chosen to match your personal palette.
+Male,Triangle,Tan,Brown,Autumn,Elegant,Formal Meeting,Sunny & Warm,White linen blouse,Pleated trousers,Espadrille sandals,"Leather backpack, watch",Colors are chosen to match your personal palette.
+Female,Pear,Tan,Black,Summer,Formal,Casual Outing,Rainy & Cool,Denim jacket,Jogger pants,Flat sandals,"Beanie, scarf",Colors are chosen to match your personal palette.
+Female,Pear,Olive,Red,Autumn,Bohemian,Wedding Invitation,Sunny & Warm,Loose cotton tunic,Maxi skirt,White sneakers,Statement necklace,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Pear,Light,Blonde,Summer,Elegant,Hangout,Hot & Humid,White linen blouse,Pleated trousers,Espadrille sandals,Statement necklace,Light fabrics keep you cool and accessories protect from the sun.
+Female,Apple,Medium,Black,Spring,Elegant,Casual Outing,Mild & Pleasant,Polo shirt,Navy chinos,White sneakers,"Straw hat, sunglasses",Colors are chosen to match your personal palette.
+Male,Rectangle,Dark,Gray,Autumn,Smart Casual,Travel,Cold & Windy,Striped t-shirt,Navy chinos,White sneakers,"Crossbody bag, floppy hat",Shoes are comfortable for long walks.
+Female,Apple,Light,Gray,Summer,Streetwear,Formal Meeting,Hot & Humid,Polo shirt,High-waisted denim shorts,Flat sandals,Minimalist bracelet,Smart layers keep you dry and professional.
+Female,Apple,Light,Blonde,Spring,Casual,Travel,Hot & Humid,Denim jacket,Maxi skirt,Black boots,"Pearl earrings, clutch bag",Layering keeps you warm and stylish for casual outings.
+Male,Apple,Olive,Gray,Summer,Smart Casual,Campus,Hot & Humid,Polo shirt,Slim-fit jeans,Ballet flats,"Leather backpack, watch",Smart layers keep you dry and professional.
+Male,Pear,Light,Brown,Winter,Casual,Hangout,Rainy & Cool,Pastel silk blouse,Pleated trousers,Ballet flats,Minimalist bracelet,The outfit is easy to mix and match.
+Female,Hourglass,Light,Red,Winter,Streetwear,Hangout,Mild & Pleasant,Loose cotton tunic,Wide-leg linen pants,Ballet flats,"Beanie, scarf",Colors are chosen to match your personal palette.
+Female,Pear,Olive,Gray,Spring,Elegant,Job Interview,Cold & Windy,White linen blouse,Wide-leg linen pants,Nude heels,Minimalist bracelet,The outfit is easy to mix and match.
+Male,Apple,Medium,Red,Autumn,Formal,Travel,Hot & Humid,Flowy tank top,Maxi skirt,Espadrille sandals,"Beanie, scarf",Smart layers keep you dry and professional.
+Female,Rectangle,Light,Black,Summer,Bohemian,Casual Outing,Sunny & Warm,Denim jacket,Jogger pants,Brown loafers,Silk scarf,The outfit is easy to mix and match.
+Male,Rectangle,Dark,Gray,Autumn,Smart Casual,Travel,Hot & Humid,Flowy tank top,Pleated trousers,Espadrille sandals,"Pearl earrings, clutch bag",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Rectangle,Light,Blonde,Spring,Bohemian,Job Interview,Mild & Pleasant,Striped t-shirt,Slim-fit jeans,High-top sneakers,"Waterproof trench coat, leather belt",Colors are chosen to match your personal palette.
+Male,Hourglass,Olive,Gray,Winter,Elegant,Campus,Mild & Pleasant,White linen blouse,A-line floral skirt,White sneakers,"Waterproof trench coat, leather belt",Smart layers keep you dry and professional.
+Male,Pear,Tan,Brown,Spring,Formal,Casual Outing,Hot & Humid,Loose cotton tunic,Slim-fit jeans,Flat sandals,"Waterproof trench coat, leather belt",Light fabrics keep you cool and accessories protect from the sun.
+Female,Pear,Dark,Red,Summer,Bohemian,Campus,Sunny & Warm,White linen blouse,Slim-fit jeans,White sneakers,"Straw hat, sunglasses",Shoes are comfortable for long walks.
+Male,Triangle,Olive,Brown,Summer,Streetwear,Campus,Rainy & Cool,Pastel silk blouse,Maxi skirt,Flat sandals,"Pearl earrings, clutch bag",The outfit is easy to mix and match.
+Male,Rectangle,Dark,Gray,Spring,Streetwear,Formal Meeting,Mild & Pleasant,Oversized hoodie,Maxi skirt,High-top sneakers,Minimalist bracelet,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Rectangle,Dark,Red,Summer,Smart Casual,Job Interview,Cold & Windy,Loose cotton tunic,Pleated trousers,High-top sneakers,"Crossbody bag, floppy hat",The outfit is easy to mix and match.
+Male,Pear,Tan,Brown,Spring,Streetwear,Job Interview,Hot & Humid,Polo shirt,Pleated trousers,High-top sneakers,Silk scarf,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Triangle,Medium,Blonde,Summer,Streetwear,Beach,Hot & Humid,Pastel silk blouse,Maxi skirt,Black boots,"Leather backpack, watch",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Pear,Tan,Brown,Summer,Formal,Hangout,Cold & Windy,Polo shirt,Navy chinos,White sneakers,"Waterproof trench coat, leather belt",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Rectangle,Medium,Black,Winter,Bohemian,Travel,Mild & Pleasant,Pastel silk blouse,Wide-leg linen pants,Espadrille sandals,"Crossbody bag, floppy hat",Accessories add a personal touch to your look.
+Female,Pear,Dark,Brown,Summer,Elegant,Job Interview,Rainy & Cool,Polo shirt,Wide-leg linen pants,High-top sneakers,"Beanie, scarf",Accessories add a personal touch to your look.
+Female,Apple,Tan,Black,Winter,Streetwear,Travel,Sunny & Warm,Polo shirt,Cargo pants,Espadrille sandals,Silk scarf,Layering keeps you warm and stylish for casual outings.
+Female,Pear,Light,Blonde,Spring,Streetwear,Job Interview,Sunny & Warm,Loose cotton tunic,Jogger pants,Black boots,"Pearl earrings, clutch bag",Classic pieces ensure comfort and style.
+Male,Triangle,Tan,Blonde,Winter,Bohemian,Campus,Cold & Windy,Flowy tank top,Jogger pants,Nude heels,"Pearl earrings, clutch bag",Smart layers keep you dry and professional.
+Male,Apple,Tan,Blonde,Spring,Casual,Beach,Mild & Pleasant,Loose cotton tunic,Maxi skirt,Espadrille sandals,"Pearl earrings, clutch bag",Colors are chosen to match your personal palette.
+Male,Apple,Olive,Black,Spring,Formal,Job Interview,Sunny & Warm,Pastel silk blouse,Navy chinos,Slip-on shoes,Minimalist bracelet,Smart layers keep you dry and professional.
+Male,Rectangle,Light,Red,Spring,Casual,Wedding Invitation,Cold & Windy,Loose cotton tunic,Pleated trousers,Slip-on shoes,"Beanie, scarf",Colors are chosen to match your personal palette.
+Female,Apple,Tan,Red,Autumn,Elegant,Campus,Hot & Humid,Polo shirt,Wide-leg linen pants,High-top sneakers,"Crossbody bag, floppy hat",The outfit is easy to mix and match.
+Male,Triangle,Tan,Brown,Winter,Casual,Campus,Rainy & Cool,Flowy tank top,High-waisted denim shorts,Nude heels,"Leather backpack, watch",Accessories add a personal touch to your look.
+Male,Triangle,Tan,Brown,Autumn,Bohemian,Travel,Cold & Windy,White linen blouse,Jogger pants,Nude heels,"Crossbody bag, floppy hat",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Hourglass,Olive,Gray,Summer,Formal,Formal Meeting,Sunny & Warm,Loose cotton tunic,High-waisted denim shorts,Flat sandals,"Straw hat, sunglasses",Accessories add a personal touch to your look.
+Male,Triangle,Light,Blonde,Autumn,Bohemian,Formal Meeting,Cold & Windy,Oversized hoodie,Cargo pants,Nude heels,"Straw hat, sunglasses",Light fabrics keep you cool and accessories protect from the sun.
+Female,Rectangle,Olive,Red,Autumn,Casual,Formal Meeting,Hot & Humid,Light blue oxford shirt,Jogger pants,White sneakers,Silk scarf,Shoes are comfortable for long walks.
+Female,Rectangle,Light,Black,Winter,Streetwear,Casual Outing,Cold & Windy,Polo shirt,Wide-leg linen pants,Flat sandals,"Crossbody bag, floppy hat",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Triangle,Medium,Gray,Winter,Smart Casual,Beach,Cold & Windy,Loose cotton tunic,Navy chinos,Brown loafers,"Waterproof trench coat, leather belt",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Hourglass,Dark,Black,Summer,Casual,Formal Meeting,Sunny & Warm,Pastel silk blouse,Maxi skirt,Ballet flats,"Leather backpack, watch",Accessories add a personal touch to your look.
+Female,Triangle,Medium,Brown,Spring,Bohemian,Formal Meeting,Sunny & Warm,Polo shirt,Cargo pants,Slip-on shoes,"Pearl earrings, clutch bag",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Rectangle,Dark,Gray,Winter,Formal,Travel,Cold & Windy,Denim jacket,High-waisted denim shorts,Espadrille sandals,Minimalist bracelet,Classic pieces ensure comfort and style.
+Female,Triangle,Tan,Red,Spring,Elegant,Travel,Cold & Windy,White linen blouse,High-waisted denim shorts,Ballet flats,Silk scarf,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Apple,Light,Blonde,Winter,Streetwear,Beach,Sunny & Warm,Oversized hoodie,A-line floral skirt,Espadrille sandals,Silk scarf,Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Pear,Light,Blonde,Summer,Casual,Campus,Sunny & Warm,Loose cotton tunic,Cargo pants,Slip-on shoes,"Waterproof trench coat, leather belt",Smart layers keep you dry and professional.
+Female,Triangle,Light,Gray,Summer,Elegant,Travel,Hot & Humid,Denim jacket,Pleated trousers,White sneakers,"Waterproof trench coat, leather belt",Accessories add a personal touch to your look.
+Female,Pear,Light,Brown,Autumn,Formal,Hangout,Mild & Pleasant,Polo shirt,Jogger pants,White sneakers,"Beanie, scarf",Shoes are comfortable for long walks.
+Male,Hourglass,Dark,Red,Winter,Smart Casual,Job Interview,Sunny & Warm,Polo shirt,Jogger pants,Nude heels,"Beanie, scarf",Smart layers keep you dry and professional.
+Female,Rectangle,Olive,Brown,Winter,Streetwear,Campus,Cold & Windy,Pastel silk blouse,Wide-leg linen pants,White sneakers,"Beanie, scarf",Shoes are comfortable for long walks.
+Female,Triangle,Olive,Blonde,Spring,Bohemian,Wedding Invitation,Rainy & Cool,Polo shirt,Maxi skirt,Ballet flats,"Straw hat, sunglasses",Light fabrics keep you cool and accessories protect from the sun.
+Male,Pear,Olive,Black,Spring,Elegant,Job Interview,Rainy & Cool,Loose cotton tunic,Wide-leg linen pants,Espadrille sandals,Silk scarf,Accessories add a personal touch to your look.
+Male,Apple,Medium,Blonde,Winter,Formal,Beach,Mild & Pleasant,Denim jacket,Maxi skirt,Nude heels,"Leather backpack, watch",The outfit is easy to mix and match.
+Male,Apple,Dark,Black,Spring,Bohemian,Hangout,Cold & Windy,Flowy tank top,Pleated trousers,Black boots,Statement necklace,Smart layers keep you dry and professional.
+Female,Apple,Light,Brown,Winter,Formal,Casual Outing,Cold & Windy,Light blue oxford shirt,High-waisted denim shorts,Slip-on shoes,Statement necklace,The outfit is easy to mix and match.
+Male,Triangle,Dark,Brown,Summer,Formal,Campus,Rainy & Cool,Light blue oxford shirt,A-line floral skirt,Slip-on shoes,"Leather backpack, watch",Shoes are comfortable for long walks.
+Female,Rectangle,Dark,Red,Summer,Streetwear,Wedding Invitation,Mild & Pleasant,Oversized hoodie,Maxi skirt,High-top sneakers,"Waterproof trench coat, leather belt",Light fabrics keep you cool and accessories protect from the sun.
+Female,Triangle,Olive,Blonde,Winter,Formal,Formal Meeting,Cold & Windy,Flowy tank top,Jogger pants,Espadrille sandals,Silk scarf,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Triangle,Olive,Brown,Winter,Formal,Travel,Mild & Pleasant,Light blue oxford shirt,Wide-leg linen pants,Slip-on shoes,"Straw hat, sunglasses",Smart layers keep you dry and professional.
+Male,Hourglass,Dark,Brown,Winter,Streetwear,Job Interview,Mild & Pleasant,Denim jacket,A-line floral skirt,White sneakers,"Pearl earrings, clutch bag",Light fabrics keep you cool and accessories protect from the sun.
+Female,Apple,Tan,Blonde,Summer,Formal,Job Interview,Sunny & Warm,Light blue oxford shirt,Navy chinos,Slip-on shoes,"Crossbody bag, floppy hat",Accessories add a personal touch to your look.
+Female,Pear,Light,Blonde,Winter,Smart Casual,Casual Outing,Mild & Pleasant,Denim jacket,Jogger pants,Brown loafers,"Leather backpack, watch",The outfit is easy to mix and match.
+Male,Apple,Olive,Black,Winter,Casual,Campus,Mild & Pleasant,Pastel silk blouse,Jogger pants,Slip-on shoes,"Waterproof trench coat, leather belt",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Apple,Tan,Black,Spring,Bohemian,Beach,Mild & Pleasant,Flowy tank top,Navy chinos,Ballet flats,"Beanie, scarf",The outfit is easy to mix and match.
+Female,Triangle,Olive,Black,Autumn,Casual,Job Interview,Sunny & Warm,White linen blouse,Navy chinos,White sneakers,Minimalist bracelet,Classic pieces ensure comfort and style.
+Female,Hourglass,Medium,Brown,Spring,Bohemian,Wedding Invitation,Mild & Pleasant,Oversized hoodie,Pleated trousers,Black boots,"Beanie, scarf",Light fabrics keep you cool and accessories protect from the sun.
+Female,Apple,Light,Blonde,Winter,Casual,Formal Meeting,Hot & Humid,Oversized hoodie,Navy chinos,Brown loafers,"Leather backpack, watch",Smart layers keep you dry and professional.
+Female,Triangle,Tan,Black,Winter,Streetwear,Campus,Mild & Pleasant,White linen blouse,A-line floral skirt,Slip-on shoes,"Leather backpack, watch",The outfit is easy to mix and match.
+Female,Triangle,Dark,Red,Summer,Formal,Casual Outing,Rainy & Cool,Flowy tank top,Pleated trousers,Nude heels,"Crossbody bag, floppy hat",Layering keeps you warm and stylish for casual outings.
+Female,Pear,Olive,Red,Summer,Elegant,Campus,Rainy & Cool,Loose cotton tunic,A-line floral skirt,Ballet flats,Statement necklace,Colors are chosen to match your personal palette.
+Male,Triangle,Dark,Blonde,Winter,Formal,Formal Meeting,Sunny & Warm,Pastel silk blouse,Maxi skirt,White sneakers,"Beanie, scarf",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Pear,Medium,Brown,Summer,Casual,Campus,Sunny & Warm,Denim jacket,A-line floral skirt,Espadrille sandals,Statement necklace,Light fabrics keep you cool and accessories protect from the sun.
+Female,Triangle,Medium,Red,Spring,Elegant,Wedding Invitation,Mild & Pleasant,Light blue oxford shirt,Slim-fit jeans,Ballet flats,"Waterproof trench coat, leather belt",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Hourglass,Dark,Brown,Autumn,Bohemian,Casual Outing,Cold & Windy,Light blue oxford shirt,Navy chinos,Slip-on shoes,"Leather backpack, watch",The outfit is easy to mix and match.
+Female,Pear,Dark,Gray,Winter,Elegant,Formal Meeting,Mild & Pleasant,Light blue oxford shirt,A-line floral skirt,White sneakers,Minimalist bracelet,Accessories add a personal touch to your look.
+Female,Hourglass,Medium,Blonde,Summer,Casual,Hangout,Sunny & Warm,Loose cotton tunic,Wide-leg linen pants,Flat sandals,Minimalist bracelet,Smart layers keep you dry and professional.
+Female,Rectangle,Olive,Black,Winter,Elegant,Casual Outing,Sunny & Warm,Striped t-shirt,Wide-leg linen pants,High-top sneakers,"Beanie, scarf",Layering keeps you warm and stylish for casual outings.
+Male,Pear,Olive,Gray,Autumn,Elegant,Travel,Rainy & Cool,Flowy tank top,Cargo pants,Nude heels,Silk scarf,The outfit is easy to mix and match.
+Male,Rectangle,Tan,Black,Winter,Formal,Hangout,Rainy & Cool,Polo shirt,Maxi skirt,Ballet flats,"Leather backpack, watch",The outfit is easy to mix and match.
+Female,Hourglass,Olive,Brown,Spring,Casual,Casual Outing,Sunny & Warm,Oversized hoodie,Slim-fit jeans,White sneakers,"Beanie, scarf",Classic pieces ensure comfort and style.
+Female,Hourglass,Light,Gray,Winter,Formal,Job Interview,Cold & Windy,Oversized hoodie,A-line floral skirt,Flat sandals,"Leather backpack, watch",Classic pieces ensure comfort and style.
+Male,Pear,Dark,Red,Summer,Elegant,Campus,Cold & Windy,Denim jacket,A-line floral skirt,Black boots,"Beanie, scarf",Shoes are comfortable for long walks.
+Female,Rectangle,Medium,Black,Spring,Bohemian,Campus,Rainy & Cool,Flowy tank top,Cargo pants,High-top sneakers,Silk scarf,Light fabrics keep you cool and accessories protect from the sun.
+Female,Rectangle,Medium,Gray,Winter,Smart Casual,Hangout,Sunny & Warm,Striped t-shirt,Navy chinos,High-top sneakers,"Waterproof trench coat, leather belt",Layering keeps you warm and stylish for casual outings.
+Male,Apple,Dark,Blonde,Summer,Elegant,Campus,Sunny & Warm,Denim jacket,Jogger pants,Flat sandals,"Crossbody bag, floppy hat",Classic pieces ensure comfort and style.
+Female,Hourglass,Medium,Gray,Summer,Elegant,Casual Outing,Hot & Humid,Oversized hoodie,High-waisted denim shorts,High-top sneakers,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Triangle,Tan,Black,Summer,Smart Casual,Campus,Rainy & Cool,Denim jacket,Navy chinos,High-top sneakers,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Apple,Medium,Black,Summer,Bohemian,Beach,Sunny & Warm,Denim jacket,High-waisted denim shorts,High-top sneakers,"Pearl earrings, clutch bag",Shoes are comfortable for long walks.
+Female,Pear,Tan,Brown,Winter,Bohemian,Wedding Invitation,Rainy & Cool,Polo shirt,Jogger pants,White sneakers,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Hourglass,Tan,Black,Winter,Streetwear,Travel,Cold & Windy,Flowy tank top,A-line floral skirt,Slip-on shoes,"Leather backpack, watch",The outfit is easy to mix and match.
+Male,Hourglass,Medium,Black,Spring,Bohemian,Casual Outing,Mild & Pleasant,Striped t-shirt,Maxi skirt,Espadrille sandals,Minimalist bracelet,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Apple,Medium,Blonde,Summer,Elegant,Wedding Invitation,Cold & Windy,White linen blouse,Jogger pants,Brown loafers,Minimalist bracelet,The outfit is easy to mix and match.
+Female,Apple,Dark,Black,Summer,Elegant,Beach,Cold & Windy,Light blue oxford shirt,Slim-fit jeans,Flat sandals,"Beanie, scarf",Shoes are comfortable for long walks.
+Male,Triangle,Light,Black,Winter,Streetwear,Wedding Invitation,Mild & Pleasant,White linen blouse,Navy chinos,Ballet flats,"Leather backpack, watch",Layering keeps you warm and stylish for casual outings.
+Male,Rectangle,Tan,Red,Summer,Smart Casual,Beach,Mild & Pleasant,Polo shirt,Slim-fit jeans,Flat sandals,Silk scarf,Colors are chosen to match your personal palette.
+Male,Pear,Medium,Black,Winter,Casual,Hangout,Sunny & Warm,Oversized hoodie,Wide-leg linen pants,Espadrille sandals,"Waterproof trench coat, leather belt",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Pear,Light,Gray,Autumn,Casual,Hangout,Mild & Pleasant,Loose cotton tunic,Maxi skirt,White sneakers,"Leather backpack, watch",Layering keeps you warm and stylish for casual outings.
+Male,Hourglass,Tan,Gray,Summer,Elegant,Hangout,Rainy & Cool,Striped t-shirt,Cargo pants,Ballet flats,"Beanie, scarf",Smart layers keep you dry and professional.
+Female,Rectangle,Olive,Red,Summer,Formal,Casual Outing,Rainy & Cool,Loose cotton tunic,A-line floral skirt,Flat sandals,"Beanie, scarf",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Rectangle,Light,Gray,Summer,Elegant,Job Interview,Rainy & Cool,Pastel silk blouse,Maxi skirt,Ballet flats,"Crossbody bag, floppy hat",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Pear,Olive,Blonde,Winter,Streetwear,Wedding Invitation,Mild & Pleasant,Flowy tank top,Wide-leg linen pants,Slip-on shoes,Minimalist bracelet,Classic pieces ensure comfort and style.
+Male,Rectangle,Tan,Blonde,Spring,Casual,Travel,Cold & Windy,Light blue oxford shirt,Jogger pants,Black boots,"Beanie, scarf",Smart layers keep you dry and professional.
+Female,Pear,Tan,Brown,Autumn,Streetwear,Hangout,Rainy & Cool,Polo shirt,Jogger pants,White sneakers,Minimalist bracelet,The outfit is easy to mix and match.
+Female,Rectangle,Olive,Red,Autumn,Formal,Hangout,Cold & Windy,Loose cotton tunic,Navy chinos,Nude heels,"Beanie, scarf",The outfit is easy to mix and match.
+Female,Pear,Medium,Red,Autumn,Smart Casual,Beach,Rainy & Cool,Light blue oxford shirt,Cargo pants,Flat sandals,Silk scarf,Shoes are comfortable for long walks.
+Female,Pear,Light,Gray,Spring,Smart Casual,Beach,Sunny & Warm,Denim jacket,Wide-leg linen pants,Nude heels,"Beanie, scarf",Accessories add a personal touch to your look.
+Male,Rectangle,Olive,Brown,Spring,Bohemian,Beach,Cold & Windy,Striped t-shirt,Wide-leg linen pants,Nude heels,Silk scarf,The outfit is easy to mix and match.
+Female,Rectangle,Tan,Gray,Winter,Smart Casual,Job Interview,Mild & Pleasant,White linen blouse,Maxi skirt,Espadrille sandals,"Waterproof trench coat, leather belt",Accessories add a personal touch to your look.
+Female,Triangle,Olive,Gray,Summer,Casual,Travel,Hot & Humid,White linen blouse,Navy chinos,White sneakers,Minimalist bracelet,Classic pieces ensure comfort and style.
+Female,Rectangle,Medium,Red,Autumn,Elegant,Wedding Invitation,Rainy & Cool,Polo shirt,Navy chinos,Espadrille sandals,"Pearl earrings, clutch bag",Shoes are comfortable for long walks.
+Male,Pear,Medium,Blonde,Summer,Casual,Travel,Rainy & Cool,Flowy tank top,Maxi skirt,Nude heels,Minimalist bracelet,Accessories add a personal touch to your look.
+Male,Triangle,Tan,Blonde,Spring,Streetwear,Formal Meeting,Sunny & Warm,Pastel silk blouse,Cargo pants,Flat sandals,"Crossbody bag, floppy hat",Layering keeps you warm and stylish for casual outings.
+Male,Apple,Tan,Gray,Winter,Smart Casual,Campus,Mild & Pleasant,Oversized hoodie,Wide-leg linen pants,Brown loafers,"Beanie, scarf",Accessories add a personal touch to your look.
+Male,Pear,Medium,Brown,Winter,Elegant,Formal Meeting,Rainy & Cool,Flowy tank top,High-waisted denim shorts,High-top sneakers,"Crossbody bag, floppy hat",Light fabrics keep you cool and accessories protect from the sun.
+Male,Apple,Medium,Blonde,Autumn,Formal,Beach,Sunny & Warm,Pastel silk blouse,Slim-fit jeans,Black boots,Statement necklace,Shoes are comfortable for long walks.
+Female,Hourglass,Light,Red,Spring,Formal,Casual Outing,Hot & Humid,Polo shirt,High-waisted denim shorts,White sneakers,Statement necklace,Accessories add a personal touch to your look.
+Female,Hourglass,Medium,Red,Autumn,Smart Casual,Wedding Invitation,Hot & Humid,White linen blouse,Maxi skirt,Nude heels,Silk scarf,Light fabrics keep you cool and accessories protect from the sun.
+Female,Hourglass,Medium,Blonde,Autumn,Formal,Hangout,Cold & Windy,Flowy tank top,High-waisted denim shorts,High-top sneakers,"Pearl earrings, clutch bag",Classic pieces ensure comfort and style.
+Female,Pear,Olive,Black,Winter,Elegant,Campus,Sunny & Warm,Pastel silk blouse,Wide-leg linen pants,Nude heels,"Beanie, scarf",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Hourglass,Dark,Gray,Spring,Smart Casual,Job Interview,Cold & Windy,White linen blouse,Wide-leg linen pants,Black boots,"Waterproof trench coat, leather belt",Smart layers keep you dry and professional.
+Female,Pear,Light,Red,Spring,Streetwear,Hangout,Rainy & Cool,Denim jacket,Wide-leg linen pants,Brown loafers,"Leather backpack, watch",Smart layers keep you dry and professional.
+Female,Rectangle,Light,Red,Spring,Casual,Casual Outing,Mild & Pleasant,Pastel silk blouse,A-line floral skirt,Nude heels,"Leather backpack, watch",Shoes are comfortable for long walks.
+Female,Apple,Tan,Gray,Autumn,Streetwear,Job Interview,Sunny & Warm,Pastel silk blouse,Maxi skirt,Ballet flats,Silk scarf,The outfit is easy to mix and match.
+Female,Apple,Dark,Gray,Spring,Smart Casual,Formal Meeting,Rainy & Cool,Light blue oxford shirt,Slim-fit jeans,High-top sneakers,"Beanie, scarf",Shoes are comfortable for long walks.
+Female,Triangle,Tan,Black,Spring,Elegant,Beach,Cold & Windy,White linen blouse,High-waisted denim shorts,Flat sandals,Silk scarf,Smart layers keep you dry and professional.
+Male,Pear,Medium,Gray,Winter,Bohemian,Travel,Cold & Windy,Denim jacket,A-line floral skirt,Nude heels,Statement necklace,Shoes are comfortable for long walks.
+Female,Hourglass,Medium,Brown,Autumn,Formal,Beach,Mild & Pleasant,White linen blouse,Pleated trousers,Brown loafers,"Leather backpack, watch",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Rectangle,Tan,Red,Summer,Smart Casual,Wedding Invitation,Cold & Windy,Oversized hoodie,A-line floral skirt,White sneakers,"Crossbody bag, floppy hat",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Apple,Dark,Blonde,Autumn,Casual,Casual Outing,Sunny & Warm,Polo shirt,Cargo pants,Espadrille sandals,Silk scarf,Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Rectangle,Medium,Blonde,Autumn,Bohemian,Beach,Hot & Humid,Polo shirt,Maxi skirt,White sneakers,"Pearl earrings, clutch bag",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Hourglass,Dark,Blonde,Winter,Bohemian,Campus,Hot & Humid,Oversized hoodie,Jogger pants,Flat sandals,"Beanie, scarf",Smart layers keep you dry and professional.
+Female,Pear,Light,Brown,Summer,Elegant,Travel,Hot & Humid,Polo shirt,Jogger pants,White sneakers,"Beanie, scarf",Classic pieces ensure comfort and style.
+Male,Triangle,Tan,Gray,Autumn,Casual,Wedding Invitation,Rainy & Cool,Striped t-shirt,A-line floral skirt,Espadrille sandals,"Waterproof trench coat, leather belt",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Apple,Dark,Red,Spring,Formal,Casual Outing,Cold & Windy,Loose cotton tunic,Maxi skirt,High-top sneakers,Minimalist bracelet,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Triangle,Medium,Brown,Spring,Bohemian,Beach,Hot & Humid,White linen blouse,Pleated trousers,White sneakers,"Waterproof trench coat, leather belt",The outfit is easy to mix and match.
+Female,Triangle,Medium,Red,Summer,Streetwear,Travel,Rainy & Cool,Polo shirt,A-line floral skirt,Flat sandals,Silk scarf,Layering keeps you warm and stylish for casual outings.
+Male,Rectangle,Olive,Black,Spring,Formal,Casual Outing,Cold & Windy,Light blue oxford shirt,Wide-leg linen pants,Slip-on shoes,Minimalist bracelet,Classic pieces ensure comfort and style.
+Female,Pear,Light,Blonde,Spring,Smart Casual,Job Interview,Rainy & Cool,Oversized hoodie,Navy chinos,Brown loafers,Silk scarf,Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Hourglass,Dark,Black,Winter,Casual,Wedding Invitation,Cold & Windy,Oversized hoodie,Maxi skirt,Black boots,Minimalist bracelet,Smart layers keep you dry and professional.
+Male,Pear,Dark,Blonde,Winter,Smart Casual,Casual Outing,Mild & Pleasant,White linen blouse,A-line floral skirt,Black boots,Statement necklace,Classic pieces ensure comfort and style.
+Male,Triangle,Light,Brown,Autumn,Casual,Campus,Hot & Humid,Denim jacket,Pleated trousers,Ballet flats,"Crossbody bag, floppy hat",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Apple,Medium,Brown,Winter,Bohemian,Wedding Invitation,Mild & Pleasant,Striped t-shirt,Jogger pants,Nude heels,"Straw hat, sunglasses",The outfit is easy to mix and match.
+Female,Pear,Medium,Brown,Summer,Streetwear,Wedding Invitation,Rainy & Cool,Polo shirt,Wide-leg linen pants,Espadrille sandals,"Pearl earrings, clutch bag",Light fabrics keep you cool and accessories protect from the sun.
+Female,Hourglass,Olive,Red,Summer,Bohemian,Campus,Rainy & Cool,Loose cotton tunic,Slim-fit jeans,Black boots,Statement necklace,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Rectangle,Tan,Brown,Winter,Elegant,Wedding Invitation,Hot & Humid,White linen blouse,A-line floral skirt,Espadrille sandals,"Pearl earrings, clutch bag",Light fabrics keep you cool and accessories protect from the sun.
+Female,Pear,Olive,Gray,Winter,Streetwear,Hangout,Rainy & Cool,Striped t-shirt,Navy chinos,Slip-on shoes,Minimalist bracelet,Classic pieces ensure comfort and style.
+Female,Apple,Tan,Gray,Summer,Bohemian,Formal Meeting,Cold & Windy,Oversized hoodie,Maxi skirt,Slip-on shoes,"Pearl earrings, clutch bag",Light fabrics keep you cool and accessories protect from the sun.
+Female,Apple,Dark,Gray,Winter,Bohemian,Travel,Mild & Pleasant,Polo shirt,Jogger pants,Ballet flats,Statement necklace,Colors are chosen to match your personal palette.
+Female,Hourglass,Tan,Black,Spring,Elegant,Job Interview,Hot & Humid,Oversized hoodie,Slim-fit jeans,Black boots,Statement necklace,Light fabrics keep you cool and accessories protect from the sun.
+Male,Hourglass,Olive,Gray,Summer,Casual,Travel,Hot & Humid,White linen blouse,Wide-leg linen pants,Ballet flats,Silk scarf,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Pear,Olive,Gray,Autumn,Bohemian,Formal Meeting,Hot & Humid,Loose cotton tunic,Pleated trousers,Espadrille sandals,"Pearl earrings, clutch bag",Colors are chosen to match your personal palette.
+Male,Pear,Olive,Black,Autumn,Formal,Campus,Hot & Humid,Polo shirt,Pleated trousers,Black boots,Statement necklace,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Hourglass,Olive,Brown,Spring,Formal,Beach,Cold & Windy,Pastel silk blouse,Wide-leg linen pants,Flat sandals,"Beanie, scarf",Classic pieces ensure comfort and style.
+Male,Pear,Dark,Black,Autumn,Casual,Travel,Hot & Humid,Light blue oxford shirt,Wide-leg linen pants,Nude heels,"Straw hat, sunglasses",Layering keeps you warm and stylish for casual outings.
+Female,Rectangle,Olive,Black,Autumn,Elegant,Hangout,Hot & Humid,Light blue oxford shirt,Wide-leg linen pants,Espadrille sandals,"Leather backpack, watch",Accessories add a personal touch to your look.
+Female,Pear,Light,Gray,Autumn,Smart Casual,Casual Outing,Hot & Humid,Oversized hoodie,Cargo pants,White sneakers,"Waterproof trench coat, leather belt",The outfit is easy to mix and match.
+Female,Apple,Medium,Red,Spring,Elegant,Campus,Mild & Pleasant,Flowy tank top,Slim-fit jeans,Slip-on shoes,"Straw hat, sunglasses",Accessories add a personal touch to your look.
+Male,Rectangle,Medium,Gray,Winter,Casual,Casual Outing,Hot & Humid,Flowy tank top,Cargo pants,White sneakers,"Waterproof trench coat, leather belt",Layering keeps you warm and stylish for casual outings.
+Male,Rectangle,Dark,Blonde,Summer,Casual,Wedding Invitation,Sunny & Warm,Polo shirt,A-line floral skirt,High-top sneakers,"Pearl earrings, clutch bag",Layering keeps you warm and stylish for casual outings.
+Female,Apple,Olive,Red,Winter,Elegant,Wedding Invitation,Mild & Pleasant,Loose cotton tunic,Maxi skirt,Ballet flats,"Beanie, scarf",Light fabrics keep you cool and accessories protect from the sun.
+Female,Triangle,Tan,Gray,Autumn,Casual,Campus,Rainy & Cool,Oversized hoodie,Cargo pants,Black boots,"Crossbody bag, floppy hat",Colors are chosen to match your personal palette.
+Female,Triangle,Light,Red,Spring,Casual,Wedding Invitation,Rainy & Cool,White linen blouse,High-waisted denim shorts,Brown loafers,Silk scarf,Accessories add a personal touch to your look.
+Female,Hourglass,Light,Brown,Winter,Casual,Formal Meeting,Cold & Windy,Denim jacket,Jogger pants,Brown loafers,"Crossbody bag, floppy hat",Shoes are comfortable for long walks.
+Female,Pear,Medium,Gray,Winter,Bohemian,Job Interview,Mild & Pleasant,Flowy tank top,Cargo pants,Flat sandals,"Waterproof trench coat, leather belt",Classic pieces ensure comfort and style.
+Male,Triangle,Tan,Black,Summer,Casual,Job Interview,Mild & Pleasant,Loose cotton tunic,A-line floral skirt,High-top sneakers,"Waterproof trench coat, leather belt",Layering keeps you warm and stylish for casual outings.
+Male,Rectangle,Olive,Red,Winter,Elegant,Travel,Hot & Humid,Oversized hoodie,Slim-fit jeans,Flat sandals,"Leather backpack, watch",Colors are chosen to match your personal palette.
+Female,Hourglass,Medium,Black,Summer,Streetwear,Hangout,Sunny & Warm,White linen blouse,Navy chinos,White sneakers,Minimalist bracelet,Shoes are comfortable for long walks.
+Female,Rectangle,Light,Black,Spring,Elegant,Beach,Hot & Humid,Loose cotton tunic,Pleated trousers,White sneakers,"Beanie, scarf",Accessories add a personal touch to your look.
+Male,Rectangle,Medium,Blonde,Autumn,Bohemian,Job Interview,Sunny & Warm,Flowy tank top,Maxi skirt,High-top sneakers,"Waterproof trench coat, leather belt",The outfit is easy to mix and match.
+Male,Triangle,Medium,Gray,Autumn,Bohemian,Campus,Cold & Windy,Striped t-shirt,Maxi skirt,Ballet flats,"Beanie, scarf",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Triangle,Dark,Red,Summer,Bohemian,Campus,Rainy & Cool,Light blue oxford shirt,High-waisted denim shorts,White sneakers,Minimalist bracelet,The outfit is easy to mix and match.
+Male,Triangle,Light,Blonde,Spring,Casual,Beach,Mild & Pleasant,Light blue oxford shirt,A-line floral skirt,Brown loafers,"Leather backpack, watch",The outfit is easy to mix and match.
+Female,Hourglass,Dark,Brown,Spring,Elegant,Casual Outing,Cold & Windy,Polo shirt,Wide-leg linen pants,Slip-on shoes,Statement necklace,Light fabrics keep you cool and accessories protect from the sun.
+Male,Triangle,Tan,Brown,Summer,Smart Casual,Beach,Hot & Humid,Polo shirt,A-line floral skirt,White sneakers,"Beanie, scarf",Shoes are comfortable for long walks.
+Male,Triangle,Medium,Red,Winter,Formal,Formal Meeting,Mild & Pleasant,Light blue oxford shirt,High-waisted denim shorts,High-top sneakers,"Waterproof trench coat, leather belt",The outfit is easy to mix and match.
+Male,Rectangle,Light,Blonde,Autumn,Elegant,Travel,Sunny & Warm,Striped t-shirt,Maxi skirt,Brown loafers,"Pearl earrings, clutch bag",Accessories add a personal touch to your look.
+Female,Apple,Olive,Gray,Summer,Formal,Casual Outing,Sunny & Warm,Pastel silk blouse,Navy chinos,Nude heels,"Leather backpack, watch",Layering keeps you warm and stylish for casual outings.
+Female,Hourglass,Tan,Brown,Spring,Streetwear,Hangout,Rainy & Cool,Oversized hoodie,High-waisted denim shorts,Flat sandals,"Crossbody bag, floppy hat",Classic pieces ensure comfort and style.
+Female,Triangle,Dark,Red,Winter,Bohemian,Formal Meeting,Hot & Humid,Light blue oxford shirt,Maxi skirt,Nude heels,Silk scarf,The outfit is easy to mix and match.
+Female,Rectangle,Medium,Black,Summer,Casual,Job Interview,Rainy & Cool,Loose cotton tunic,Jogger pants,White sneakers,"Crossbody bag, floppy hat",Smart layers keep you dry and professional.
+Female,Triangle,Medium,Brown,Autumn,Smart Casual,Formal Meeting,Rainy & Cool,Flowy tank top,Maxi skirt,Slip-on shoes,Minimalist bracelet,Layering keeps you warm and stylish for casual outings.
+Male,Hourglass,Dark,Blonde,Winter,Formal,Beach,Mild & Pleasant,Oversized hoodie,Wide-leg linen pants,Flat sandals,"Waterproof trench coat, leather belt",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Pear,Olive,Blonde,Spring,Casual,Formal Meeting,Sunny & Warm,White linen blouse,Pleated trousers,Slip-on shoes,Statement necklace,Classic pieces ensure comfort and style.
+Male,Pear,Medium,Red,Winter,Casual,Hangout,Sunny & Warm,Flowy tank top,Slim-fit jeans,Slip-on shoes,Statement necklace,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Hourglass,Light,Black,Summer,Formal,Beach,Hot & Humid,Denim jacket,A-line floral skirt,Slip-on shoes,"Leather backpack, watch",Smart layers keep you dry and professional.
+Female,Apple,Olive,Blonde,Winter,Casual,Campus,Sunny & Warm,Loose cotton tunic,Maxi skirt,White sneakers,Silk scarf,Layering keeps you warm and stylish for casual outings.
+Female,Apple,Olive,Red,Autumn,Bohemian,Casual Outing,Hot & Humid,Striped t-shirt,Slim-fit jeans,Espadrille sandals,"Beanie, scarf",Colors are chosen to match your personal palette.
+Male,Apple,Medium,Black,Spring,Streetwear,Job Interview,Cold & Windy,Pastel silk blouse,Navy chinos,Espadrille sandals,Statement necklace,Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Triangle,Tan,Gray,Spring,Elegant,Beach,Cold & Windy,Pastel silk blouse,Slim-fit jeans,Ballet flats,"Straw hat, sunglasses",Shoes are comfortable for long walks.
+Female,Hourglass,Olive,Black,Summer,Smart Casual,Formal Meeting,Mild & Pleasant,Flowy tank top,Cargo pants,Espadrille sandals,Minimalist bracelet,Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Apple,Olive,Black,Summer,Bohemian,Hangout,Hot & Humid,Denim jacket,Pleated trousers,Brown loafers,"Waterproof trench coat, leather belt",Accessories add a personal touch to your look.
+Male,Pear,Medium,Black,Summer,Casual,Wedding Invitation,Cold & Windy,Pastel silk blouse,Jogger pants,Brown loafers,"Crossbody bag, floppy hat",Classic pieces ensure comfort and style.
+Female,Pear,Tan,Red,Summer,Bohemian,Formal Meeting,Hot & Humid,Oversized hoodie,Maxi skirt,High-top sneakers,"Leather backpack, watch",Light fabrics keep you cool and accessories protect from the sun.
+Male,Pear,Tan,Brown,Spring,Elegant,Wedding Invitation,Cold & Windy,Oversized hoodie,Slim-fit jeans,White sneakers,"Beanie, scarf",Colors are chosen to match your personal palette.
+Male,Triangle,Light,Black,Spring,Elegant,Campus,Hot & Humid,White linen blouse,Slim-fit jeans,High-top sneakers,"Beanie, scarf",Shoes are comfortable for long walks.
+Male,Pear,Tan,Red,Autumn,Bohemian,Formal Meeting,Rainy & Cool,Light blue oxford shirt,High-waisted denim shorts,Nude heels,"Crossbody bag, floppy hat",Classic pieces ensure comfort and style.
+Male,Rectangle,Olive,Blonde,Autumn,Smart Casual,Casual Outing,Cold & Windy,Striped t-shirt,Jogger pants,Brown loafers,"Leather backpack, watch",Light fabrics keep you cool and accessories protect from the sun.
+Male,Apple,Light,Brown,Winter,Bohemian,Travel,Hot & Humid,Striped t-shirt,Slim-fit jeans,Black boots,Minimalist bracelet,Light fabrics keep you cool and accessories protect from the sun.
+Female,Pear,Medium,Red,Autumn,Casual,Formal Meeting,Hot & Humid,Striped t-shirt,High-waisted denim shorts,Espadrille sandals,Silk scarf,Classic pieces ensure comfort and style.
+Male,Rectangle,Tan,Blonde,Summer,Streetwear,Wedding Invitation,Rainy & Cool,Polo shirt,Navy chinos,Black boots,"Leather backpack, watch",The outfit is easy to mix and match.
+Female,Hourglass,Medium,Black,Winter,Smart Casual,Wedding Invitation,Rainy & Cool,Denim jacket,Slim-fit jeans,Brown loafers,Silk scarf,The outfit is easy to mix and match.
+Female,Rectangle,Light,Blonde,Winter,Smart Casual,Wedding Invitation,Sunny & Warm,Light blue oxford shirt,A-line floral skirt,Brown loafers,"Beanie, scarf",Accessories add a personal touch to your look.
+Male,Hourglass,Medium,Red,Summer,Elegant,Job Interview,Sunny & Warm,White linen blouse,Pleated trousers,High-top sneakers,"Waterproof trench coat, leather belt",Light fabrics keep you cool and accessories protect from the sun.
+Male,Hourglass,Olive,Red,Summer,Elegant,Hangout,Sunny & Warm,Polo shirt,A-line floral skirt,Nude heels,"Straw hat, sunglasses",Classic pieces ensure comfort and style.
+Female,Hourglass,Tan,Gray,Spring,Elegant,Formal Meeting,Cold & Windy,Pastel silk blouse,Wide-leg linen pants,Flat sandals,Silk scarf,Colors are chosen to match your personal palette.
+Female,Triangle,Olive,Red,Spring,Streetwear,Beach,Cold & Windy,White linen blouse,A-line floral skirt,Nude heels,"Leather backpack, watch",Smart layers keep you dry and professional.
+Female,Rectangle,Dark,Blonde,Spring,Casual,Campus,Mild & Pleasant,Polo shirt,Jogger pants,Espadrille sandals,"Beanie, scarf",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Triangle,Olive,Blonde,Winter,Streetwear,Job Interview,Cold & Windy,Light blue oxford shirt,Navy chinos,White sneakers,"Straw hat, sunglasses",Colors are chosen to match your personal palette.
+Female,Triangle,Tan,Black,Summer,Bohemian,Casual Outing,Sunny & Warm,Striped t-shirt,High-waisted denim shorts,White sneakers,Minimalist bracelet,The outfit is easy to mix and match.
+Female,Hourglass,Olive,Brown,Autumn,Casual,Campus,Cold & Windy,Loose cotton tunic,High-waisted denim shorts,Flat sandals,Minimalist bracelet,Smart layers keep you dry and professional.
+Female,Triangle,Medium,Brown,Summer,Streetwear,Hangout,Rainy & Cool,Oversized hoodie,Navy chinos,Slip-on shoes,"Beanie, scarf",The outfit is easy to mix and match.
+Female,Triangle,Medium,Gray,Spring,Streetwear,Casual Outing,Cold & Windy,White linen blouse,Slim-fit jeans,Espadrille sandals,"Pearl earrings, clutch bag",Layering keeps you warm and stylish for casual outings.
+Female,Apple,Dark,Blonde,Summer,Streetwear,Formal Meeting,Mild & Pleasant,Oversized hoodie,High-waisted denim shorts,High-top sneakers,"Beanie, scarf",Light fabrics keep you cool and accessories protect from the sun.
+Male,Pear,Tan,Black,Spring,Formal,Job Interview,Cold & Windy,White linen blouse,Wide-leg linen pants,Ballet flats,Silk scarf,Colors are chosen to match your personal palette.
+Female,Triangle,Medium,Brown,Summer,Bohemian,Travel,Rainy & Cool,Denim jacket,A-line floral skirt,Espadrille sandals,"Leather backpack, watch",Accessories add a personal touch to your look.
+Male,Rectangle,Tan,Red,Winter,Casual,Formal Meeting,Rainy & Cool,White linen blouse,High-waisted denim shorts,Slip-on shoes,"Pearl earrings, clutch bag",Accessories add a personal touch to your look.
+Male,Pear,Medium,Brown,Autumn,Casual,Travel,Cold & Windy,Oversized hoodie,A-line floral skirt,White sneakers,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Pear,Light,Gray,Winter,Elegant,Formal Meeting,Hot & Humid,Light blue oxford shirt,High-waisted denim shorts,Brown loafers,Statement necklace,Smart layers keep you dry and professional.
+Male,Pear,Tan,Black,Spring,Streetwear,Travel,Hot & Humid,Striped t-shirt,Jogger pants,Nude heels,Silk scarf,Layering keeps you warm and stylish for casual outings.
+Female,Apple,Olive,Blonde,Autumn,Casual,Job Interview,Sunny & Warm,Striped t-shirt,High-waisted denim shorts,Slip-on shoes,"Waterproof trench coat, leather belt",Light fabrics keep you cool and accessories protect from the sun.
+Male,Pear,Light,Blonde,Winter,Casual,Job Interview,Sunny & Warm,Flowy tank top,Maxi skirt,Black boots,"Pearl earrings, clutch bag",Accessories add a personal touch to your look.
+Female,Pear,Olive,Brown,Autumn,Casual,Campus,Hot & Humid,Flowy tank top,Cargo pants,Black boots,"Waterproof trench coat, leather belt",The outfit is easy to mix and match.
+Female,Pear,Medium,Black,Winter,Formal,Job Interview,Mild & Pleasant,White linen blouse,Cargo pants,White sneakers,"Crossbody bag, floppy hat",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Hourglass,Olive,Blonde,Autumn,Streetwear,Wedding Invitation,Rainy & Cool,Light blue oxford shirt,Slim-fit jeans,Slip-on shoes,"Leather backpack, watch",Smart layers keep you dry and professional.
+Male,Triangle,Medium,Gray,Spring,Elegant,Travel,Sunny & Warm,Polo shirt,Cargo pants,Slip-on shoes,"Leather backpack, watch",Accessories add a personal touch to your look.
+Female,Rectangle,Olive,Black,Spring,Elegant,Travel,Rainy & Cool,Striped t-shirt,Navy chinos,Nude heels,"Pearl earrings, clutch bag",Accessories add a personal touch to your look.
+Male,Apple,Medium,Red,Autumn,Elegant,Casual Outing,Sunny & Warm,Loose cotton tunic,Navy chinos,Brown loafers,Silk scarf,Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Hourglass,Dark,Gray,Summer,Casual,Formal Meeting,Cold & Windy,Polo shirt,Wide-leg linen pants,Flat sandals,"Crossbody bag, floppy hat",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Apple,Dark,Black,Summer,Elegant,Formal Meeting,Hot & Humid,Denim jacket,High-waisted denim shorts,Slip-on shoes,Statement necklace,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Hourglass,Dark,Gray,Autumn,Formal,Hangout,Rainy & Cool,Striped t-shirt,Slim-fit jeans,Brown loafers,Statement necklace,Smart layers keep you dry and professional.
+Male,Apple,Tan,Red,Autumn,Casual,Formal Meeting,Rainy & Cool,Oversized hoodie,Slim-fit jeans,Ballet flats,"Straw hat, sunglasses",Light fabrics keep you cool and accessories protect from the sun.
+Female,Rectangle,Dark,Gray,Summer,Smart Casual,Beach,Mild & Pleasant,Denim jacket,High-waisted denim shorts,Brown loafers,Silk scarf,Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Apple,Olive,Brown,Spring,Streetwear,Formal Meeting,Mild & Pleasant,Pastel silk blouse,Cargo pants,Black boots,Minimalist bracelet,Smart layers keep you dry and professional.
+Female,Triangle,Medium,Gray,Summer,Bohemian,Casual Outing,Rainy & Cool,Striped t-shirt,Maxi skirt,Brown loafers,Minimalist bracelet,Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Pear,Dark,Red,Winter,Elegant,Casual Outing,Sunny & Warm,Polo shirt,High-waisted denim shorts,Slip-on shoes,Statement necklace,Classic pieces ensure comfort and style.
+Female,Apple,Dark,Red,Spring,Casual,Casual Outing,Rainy & Cool,Loose cotton tunic,Navy chinos,Espadrille sandals,"Waterproof trench coat, leather belt",Colors are chosen to match your personal palette.
+Male,Hourglass,Olive,Blonde,Spring,Smart Casual,Travel,Rainy & Cool,Loose cotton tunic,Slim-fit jeans,Espadrille sandals,"Beanie, scarf",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Triangle,Medium,Blonde,Autumn,Streetwear,Travel,Hot & Humid,Flowy tank top,Pleated trousers,High-top sneakers,Silk scarf,Smart layers keep you dry and professional.
+Male,Apple,Tan,Gray,Spring,Formal,Travel,Sunny & Warm,Denim jacket,A-line floral skirt,Nude heels,"Straw hat, sunglasses",Light fabrics keep you cool and accessories protect from the sun.
+Male,Hourglass,Light,Blonde,Spring,Bohemian,Travel,Rainy & Cool,White linen blouse,Wide-leg linen pants,Flat sandals,"Pearl earrings, clutch bag",Accessories add a personal touch to your look.
+Male,Hourglass,Olive,Gray,Autumn,Formal,Travel,Hot & Humid,Denim jacket,Cargo pants,Nude heels,"Beanie, scarf",Light fabrics keep you cool and accessories protect from the sun.
+Male,Rectangle,Light,Brown,Winter,Casual,Casual Outing,Cold & Windy,Loose cotton tunic,High-waisted denim shorts,Slip-on shoes,"Waterproof trench coat, leather belt",Light fabrics keep you cool and accessories protect from the sun.
+Female,Rectangle,Medium,Black,Winter,Bohemian,Beach,Hot & Humid,Striped t-shirt,Pleated trousers,Ballet flats,Silk scarf,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Triangle,Tan,Black,Autumn,Bohemian,Campus,Mild & Pleasant,Light blue oxford shirt,Navy chinos,Slip-on shoes,"Crossbody bag, floppy hat",Colors are chosen to match your personal palette.
+Male,Rectangle,Olive,Black,Winter,Formal,Campus,Cold & Windy,Pastel silk blouse,Navy chinos,Flat sandals,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Triangle,Dark,Black,Spring,Streetwear,Campus,Cold & Windy,Oversized hoodie,Navy chinos,Black boots,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Pear,Medium,Red,Spring,Smart Casual,Job Interview,Hot & Humid,Denim jacket,Cargo pants,Nude heels,"Crossbody bag, floppy hat",Accessories add a personal touch to your look.
+Male,Apple,Tan,Black,Spring,Streetwear,Campus,Hot & Humid,Flowy tank top,Navy chinos,Flat sandals,"Pearl earrings, clutch bag",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Hourglass,Dark,Red,Summer,Formal,Casual Outing,Rainy & Cool,Pastel silk blouse,High-waisted denim shorts,High-top sneakers,"Beanie, scarf",Layering keeps you warm and stylish for casual outings.
+Male,Triangle,Dark,Red,Winter,Bohemian,Casual Outing,Cold & Windy,Loose cotton tunic,Slim-fit jeans,Espadrille sandals,Statement necklace,Shoes are comfortable for long walks.
+Female,Pear,Tan,Red,Summer,Formal,Campus,Mild & Pleasant,Loose cotton tunic,Cargo pants,Nude heels,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Pear,Medium,Black,Autumn,Casual,Job Interview,Mild & Pleasant,Flowy tank top,Cargo pants,High-top sneakers,"Beanie, scarf",The outfit is easy to mix and match.
+Male,Pear,Tan,Brown,Autumn,Bohemian,Job Interview,Cold & Windy,Denim jacket,Navy chinos,Flat sandals,"Crossbody bag, floppy hat",Colors are chosen to match your personal palette.
+Female,Triangle,Light,Blonde,Winter,Elegant,Wedding Invitation,Rainy & Cool,Flowy tank top,Jogger pants,Flat sandals,Silk scarf,Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Rectangle,Tan,Brown,Spring,Bohemian,Casual Outing,Hot & Humid,Denim jacket,Maxi skirt,Ballet flats,Minimalist bracelet,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Pear,Medium,Gray,Summer,Smart Casual,Travel,Sunny & Warm,Flowy tank top,Pleated trousers,Nude heels,"Crossbody bag, floppy hat",Light fabrics keep you cool and accessories protect from the sun.
+Male,Rectangle,Tan,Brown,Summer,Streetwear,Casual Outing,Sunny & Warm,Polo shirt,Pleated trousers,White sneakers,"Waterproof trench coat, leather belt",Classic pieces ensure comfort and style.
+Female,Rectangle,Olive,Blonde,Spring,Casual,Travel,Hot & Humid,Denim jacket,High-waisted denim shorts,High-top sneakers,"Straw hat, sunglasses",Light fabrics keep you cool and accessories protect from the sun.
+Male,Triangle,Light,Brown,Spring,Smart Casual,Wedding Invitation,Sunny & Warm,Striped t-shirt,Cargo pants,White sneakers,"Waterproof trench coat, leather belt",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Rectangle,Light,Red,Summer,Bohemian,Travel,Rainy & Cool,Striped t-shirt,Wide-leg linen pants,Black boots,Silk scarf,Smart layers keep you dry and professional.
+Male,Apple,Light,Brown,Autumn,Bohemian,Job Interview,Hot & Humid,White linen blouse,Navy chinos,Nude heels,"Leather backpack, watch",Classic pieces ensure comfort and style.
+Female,Pear,Light,Blonde,Summer,Formal,Travel,Hot & Humid,Oversized hoodie,Pleated trousers,White sneakers,"Leather backpack, watch",Accessories add a personal touch to your look.
+Female,Rectangle,Light,Blonde,Autumn,Elegant,Beach,Mild & Pleasant,Light blue oxford shirt,Pleated trousers,Ballet flats,"Leather backpack, watch",Colors are chosen to match your personal palette.
+Female,Rectangle,Medium,Blonde,Winter,Elegant,Wedding Invitation,Sunny & Warm,Polo shirt,A-line floral skirt,Ballet flats,"Straw hat, sunglasses",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Apple,Light,Black,Summer,Smart Casual,Formal Meeting,Rainy & Cool,Denim jacket,Pleated trousers,Nude heels,"Leather backpack, watch",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Apple,Medium,Gray,Winter,Streetwear,Hangout,Rainy & Cool,Polo shirt,A-line floral skirt,Nude heels,Silk scarf,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Rectangle,Light,Blonde,Spring,Formal,Formal Meeting,Mild & Pleasant,Pastel silk blouse,Cargo pants,Flat sandals,"Waterproof trench coat, leather belt",Colors are chosen to match your personal palette.
+Female,Triangle,Light,Brown,Winter,Elegant,Hangout,Rainy & Cool,Light blue oxford shirt,Wide-leg linen pants,Ballet flats,Statement necklace,Classic pieces ensure comfort and style.
+Male,Triangle,Light,Gray,Summer,Bohemian,Casual Outing,Rainy & Cool,Pastel silk blouse,Cargo pants,Black boots,Minimalist bracelet,Layering keeps you warm and stylish for casual outings.
+Female,Apple,Olive,Black,Winter,Smart Casual,Hangout,Hot & Humid,Loose cotton tunic,Jogger pants,White sneakers,Silk scarf,Classic pieces ensure comfort and style.
+Male,Triangle,Dark,Brown,Winter,Smart Casual,Casual Outing,Sunny & Warm,Light blue oxford shirt,Pleated trousers,Ballet flats,"Leather backpack, watch",Shoes are comfortable for long walks.
+Female,Hourglass,Tan,Blonde,Spring,Streetwear,Job Interview,Cold & Windy,Striped t-shirt,Jogger pants,High-top sneakers,"Beanie, scarf",Classic pieces ensure comfort and style.
+Male,Hourglass,Medium,Gray,Winter,Streetwear,Beach,Rainy & Cool,Oversized hoodie,Wide-leg linen pants,Flat sandals,"Crossbody bag, floppy hat",Light fabrics keep you cool and accessories protect from the sun.
+Female,Pear,Dark,Black,Spring,Elegant,Beach,Hot & Humid,Denim jacket,Slim-fit jeans,Espadrille sandals,Minimalist bracelet,The outfit is easy to mix and match.
+Female,Pear,Olive,Blonde,Autumn,Bohemian,Formal Meeting,Sunny & Warm,Pastel silk blouse,High-waisted denim shorts,High-top sneakers,"Waterproof trench coat, leather belt",Shoes are comfortable for long walks.
+Female,Apple,Medium,Red,Winter,Elegant,Hangout,Hot & Humid,Loose cotton tunic,Jogger pants,Flat sandals,"Straw hat, sunglasses",Classic pieces ensure comfort and style.
+Female,Apple,Light,Brown,Winter,Formal,Casual Outing,Cold & Windy,Flowy tank top,Pleated trousers,Espadrille sandals,"Straw hat, sunglasses",Light fabrics keep you cool and accessories protect from the sun.
+Male,Triangle,Medium,Blonde,Winter,Casual,Campus,Rainy & Cool,White linen blouse,High-waisted denim shorts,Espadrille sandals,Silk scarf,Shoes are comfortable for long walks.
+Female,Triangle,Olive,Blonde,Spring,Streetwear,Beach,Sunny & Warm,Flowy tank top,Slim-fit jeans,High-top sneakers,Statement necklace,Classic pieces ensure comfort and style.
+Male,Triangle,Dark,Brown,Spring,Smart Casual,Casual Outing,Sunny & Warm,Polo shirt,Slim-fit jeans,High-top sneakers,Minimalist bracelet,Colors are chosen to match your personal palette.
+Female,Pear,Tan,Black,Autumn,Elegant,Casual Outing,Cold & Windy,Striped t-shirt,Cargo pants,Ballet flats,"Beanie, scarf",Classic pieces ensure comfort and style.
+Male,Pear,Tan,Gray,Summer,Streetwear,Beach,Sunny & Warm,White linen blouse,A-line floral skirt,White sneakers,Statement necklace,Accessories add a personal touch to your look.
+Female,Hourglass,Tan,Black,Summer,Smart Casual,Wedding Invitation,Cold & Windy,Denim jacket,Wide-leg linen pants,Black boots,"Leather backpack, watch",Classic pieces ensure comfort and style.
+Female,Triangle,Tan,Blonde,Summer,Smart Casual,Campus,Cold & Windy,Light blue oxford shirt,Navy chinos,Slip-on shoes,"Beanie, scarf",The outfit is easy to mix and match.
+Male,Apple,Tan,Brown,Spring,Formal,Casual Outing,Rainy & Cool,Oversized hoodie,Navy chinos,Brown loafers,"Pearl earrings, clutch bag",Shoes are comfortable for long walks.
+Female,Rectangle,Light,Gray,Spring,Smart Casual,Formal Meeting,Mild & Pleasant,Oversized hoodie,Jogger pants,Slip-on shoes,"Crossbody bag, floppy hat",The outfit is easy to mix and match.
+Male,Rectangle,Light,Brown,Spring,Streetwear,Wedding Invitation,Rainy & Cool,Striped t-shirt,Pleated trousers,Nude heels,"Crossbody bag, floppy hat",The outfit is easy to mix and match.
+Male,Pear,Medium,Red,Autumn,Formal,Hangout,Rainy & Cool,Striped t-shirt,A-line floral skirt,White sneakers,Statement necklace,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Hourglass,Dark,Brown,Summer,Streetwear,Hangout,Mild & Pleasant,Flowy tank top,Slim-fit jeans,Black boots,Silk scarf,Smart layers keep you dry and professional.
+Male,Apple,Light,Black,Winter,Casual,Casual Outing,Mild & Pleasant,Flowy tank top,A-line floral skirt,Espadrille sandals,Silk scarf,Accessories add a personal touch to your look.
+Male,Triangle,Olive,Red,Autumn,Formal,Casual Outing,Sunny & Warm,White linen blouse,Slim-fit jeans,Ballet flats,"Pearl earrings, clutch bag",Accessories add a personal touch to your look.
+Male,Pear,Light,Blonde,Summer,Elegant,Beach,Mild & Pleasant,Striped t-shirt,Wide-leg linen pants,High-top sneakers,"Waterproof trench coat, leather belt",Shoes are comfortable for long walks.
+Male,Apple,Medium,Red,Winter,Smart Casual,Beach,Mild & Pleasant,Loose cotton tunic,Jogger pants,Flat sandals,Silk scarf,Colors are chosen to match your personal palette.
+Female,Triangle,Tan,Red,Spring,Smart Casual,Wedding Invitation,Sunny & Warm,Pastel silk blouse,Navy chinos,Ballet flats,"Pearl earrings, clutch bag",Colors are chosen to match your personal palette.
+Female,Hourglass,Tan,Blonde,Autumn,Bohemian,Travel,Sunny & Warm,Oversized hoodie,A-line floral skirt,White sneakers,"Pearl earrings, clutch bag",Accessories add a personal touch to your look.
+Female,Triangle,Olive,Black,Spring,Elegant,Casual Outing,Mild & Pleasant,Polo shirt,Pleated trousers,Nude heels,"Waterproof trench coat, leather belt",Accessories add a personal touch to your look.
+Female,Triangle,Tan,Red,Spring,Streetwear,Campus,Mild & Pleasant,Pastel silk blouse,Navy chinos,Flat sandals,Silk scarf,Classic pieces ensure comfort and style.
+Female,Apple,Dark,Gray,Winter,Casual,Beach,Hot & Humid,Striped t-shirt,Maxi skirt,High-top sneakers,Silk scarf,Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Hourglass,Tan,Blonde,Summer,Streetwear,Casual Outing,Cold & Windy,Flowy tank top,Slim-fit jeans,Black boots,"Leather backpack, watch",Accessories add a personal touch to your look.
+Male,Apple,Olive,Gray,Autumn,Smart Casual,Hangout,Mild & Pleasant,Striped t-shirt,A-line floral skirt,Espadrille sandals,"Pearl earrings, clutch bag",Layering keeps you warm and stylish for casual outings.
+Female,Apple,Dark,Blonde,Autumn,Streetwear,Beach,Sunny & Warm,Oversized hoodie,Pleated trousers,Slip-on shoes,Silk scarf,Shoes are comfortable for long walks.
+Female,Triangle,Medium,Brown,Autumn,Smart Casual,Job Interview,Hot & Humid,Striped t-shirt,High-waisted denim shorts,Brown loafers,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Rectangle,Olive,Blonde,Spring,Formal,Campus,Mild & Pleasant,Light blue oxford shirt,Wide-leg linen pants,Nude heels,"Straw hat, sunglasses",Smart layers keep you dry and professional.
+Male,Hourglass,Light,Blonde,Autumn,Smart Casual,Hangout,Mild & Pleasant,Oversized hoodie,High-waisted denim shorts,Brown loafers,Silk scarf,Layering keeps you warm and stylish for casual outings.
+Female,Hourglass,Light,Black,Spring,Casual,Wedding Invitation,Rainy & Cool,Light blue oxford shirt,Maxi skirt,Ballet flats,Silk scarf,Classic pieces ensure comfort and style.
+Male,Triangle,Olive,Gray,Autumn,Smart Casual,Job Interview,Cold & Windy,Loose cotton tunic,Slim-fit jeans,Flat sandals,"Straw hat, sunglasses",Light fabrics keep you cool and accessories protect from the sun.
+Female,Triangle,Olive,Gray,Spring,Bohemian,Travel,Cold & Windy,Oversized hoodie,Navy chinos,Flat sandals,Minimalist bracelet,Accessories add a personal touch to your look.
+Male,Triangle,Tan,Brown,Summer,Elegant,Casual Outing,Rainy & Cool,Light blue oxford shirt,Pleated trousers,Slip-on shoes,"Crossbody bag, floppy hat",Colors are chosen to match your personal palette.
+Female,Apple,Light,Gray,Autumn,Formal,Casual Outing,Sunny & Warm,Pastel silk blouse,High-waisted denim shorts,Espadrille sandals,"Waterproof trench coat, leather belt",Light fabrics keep you cool and accessories protect from the sun.
+Male,Apple,Dark,Red,Autumn,Streetwear,Campus,Cold & Windy,Flowy tank top,High-waisted denim shorts,Espadrille sandals,Statement necklace,The outfit is easy to mix and match.
+Male,Triangle,Dark,Red,Spring,Casual,Hangout,Hot & Humid,Denim jacket,A-line floral skirt,Flat sandals,"Leather backpack, watch",Light fabrics keep you cool and accessories protect from the sun.
+Male,Rectangle,Dark,Brown,Summer,Formal,Job Interview,Hot & Humid,Flowy tank top,Jogger pants,Brown loafers,"Straw hat, sunglasses",Smart layers keep you dry and professional.
+Female,Hourglass,Light,Brown,Autumn,Streetwear,Wedding Invitation,Sunny & Warm,Oversized hoodie,Pleated trousers,Black boots,Silk scarf,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Apple,Dark,Blonde,Spring,Bohemian,Beach,Mild & Pleasant,Pastel silk blouse,Slim-fit jeans,Brown loafers,"Straw hat, sunglasses",Classic pieces ensure comfort and style.
+Female,Pear,Medium,Brown,Winter,Elegant,Hangout,Mild & Pleasant,Flowy tank top,Jogger pants,White sneakers,"Pearl earrings, clutch bag",Shoes are comfortable for long walks.
+Male,Hourglass,Tan,Black,Spring,Formal,Formal Meeting,Cold & Windy,Loose cotton tunic,Maxi skirt,Espadrille sandals,Statement necklace,The outfit is easy to mix and match.
+Female,Pear,Light,Red,Summer,Elegant,Campus,Mild & Pleasant,Oversized hoodie,Slim-fit jeans,Nude heels,"Beanie, scarf",Accessories add a personal touch to your look.
+Male,Apple,Light,Red,Autumn,Formal,Job Interview,Mild & Pleasant,Oversized hoodie,Cargo pants,Flat sandals,"Beanie, scarf",Shoes are comfortable for long walks.
+Male,Hourglass,Medium,Red,Spring,Smart Casual,Travel,Rainy & Cool,Oversized hoodie,Pleated trousers,Black boots,"Waterproof trench coat, leather belt",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Rectangle,Dark,Black,Spring,Streetwear,Formal Meeting,Rainy & Cool,Oversized hoodie,Navy chinos,White sneakers,"Crossbody bag, floppy hat",Smart layers keep you dry and professional.
+Male,Pear,Olive,Blonde,Spring,Formal,Travel,Hot & Humid,Pastel silk blouse,Jogger pants,Black boots,"Beanie, scarf",The outfit is easy to mix and match.
+Male,Hourglass,Medium,Red,Autumn,Elegant,Travel,Mild & Pleasant,Pastel silk blouse,High-waisted denim shorts,Brown loafers,"Pearl earrings, clutch bag",Layering keeps you warm and stylish for casual outings.
+Male,Rectangle,Dark,Red,Winter,Streetwear,Travel,Rainy & Cool,Light blue oxford shirt,Cargo pants,Flat sandals,"Waterproof trench coat, leather belt",Accessories add a personal touch to your look.
+Female,Triangle,Light,Brown,Spring,Casual,Campus,Hot & Humid,Oversized hoodie,Navy chinos,Nude heels,"Crossbody bag, floppy hat",Accessories add a personal touch to your look.
+Male,Rectangle,Light,Gray,Spring,Bohemian,Formal Meeting,Sunny & Warm,Denim jacket,Maxi skirt,Nude heels,Statement necklace,Light fabrics keep you cool and accessories protect from the sun.
+Female,Rectangle,Medium,Red,Autumn,Bohemian,Travel,Cold & Windy,Flowy tank top,Wide-leg linen pants,Nude heels,Silk scarf,Colors are chosen to match your personal palette.
+Male,Triangle,Olive,Blonde,Winter,Casual,Travel,Mild & Pleasant,Striped t-shirt,Wide-leg linen pants,White sneakers,"Pearl earrings, clutch bag",The outfit is easy to mix and match.
+Female,Pear,Olive,Blonde,Autumn,Casual,Beach,Cold & Windy,Polo shirt,High-waisted denim shorts,Ballet flats,"Straw hat, sunglasses",Light fabrics keep you cool and accessories protect from the sun.
+Male,Pear,Light,Brown,Winter,Casual,Travel,Sunny & Warm,Oversized hoodie,A-line floral skirt,Nude heels,"Pearl earrings, clutch bag",Accessories add a personal touch to your look.
+Male,Triangle,Light,Blonde,Winter,Elegant,Travel,Mild & Pleasant,Polo shirt,High-waisted denim shorts,High-top sneakers,"Crossbody bag, floppy hat",Smart layers keep you dry and professional.
+Male,Rectangle,Tan,Brown,Spring,Elegant,Campus,Sunny & Warm,White linen blouse,Cargo pants,Nude heels,"Leather backpack, watch",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Apple,Light,Brown,Winter,Bohemian,Campus,Rainy & Cool,Pastel silk blouse,Wide-leg linen pants,Slip-on shoes,"Straw hat, sunglasses",Light fabrics keep you cool and accessories protect from the sun.
+Female,Apple,Dark,Red,Autumn,Smart Casual,Wedding Invitation,Mild & Pleasant,Oversized hoodie,Jogger pants,Espadrille sandals,Silk scarf,Colors are chosen to match your personal palette.
+Male,Hourglass,Dark,Blonde,Summer,Streetwear,Wedding Invitation,Hot & Humid,White linen blouse,A-line floral skirt,Nude heels,"Beanie, scarf",Smart layers keep you dry and professional.
+Male,Rectangle,Olive,Brown,Spring,Smart Casual,Travel,Hot & Humid,Pastel silk blouse,High-waisted denim shorts,Espadrille sandals,"Straw hat, sunglasses",Shoes are comfortable for long walks.
+Male,Hourglass,Olive,Blonde,Summer,Streetwear,Travel,Cold & Windy,Oversized hoodie,A-line floral skirt,Black boots,"Crossbody bag, floppy hat",Light fabrics keep you cool and accessories protect from the sun.
+Female,Pear,Medium,Red,Autumn,Streetwear,Wedding Invitation,Cold & Windy,Pastel silk blouse,Navy chinos,Ballet flats,"Beanie, scarf",Smart layers keep you dry and professional.
+Female,Hourglass,Medium,Brown,Spring,Formal,Wedding Invitation,Mild & Pleasant,Oversized hoodie,Cargo pants,Slip-on shoes,"Beanie, scarf",Shoes are comfortable for long walks.
+Male,Rectangle,Medium,Brown,Spring,Formal,Job Interview,Rainy & Cool,White linen blouse,Navy chinos,White sneakers,Statement necklace,Layering keeps you warm and stylish for casual outings.
+Male,Rectangle,Dark,Black,Autumn,Smart Casual,Campus,Sunny & Warm,Pastel silk blouse,Cargo pants,High-top sneakers,"Waterproof trench coat, leather belt",The outfit is easy to mix and match.
+Male,Triangle,Olive,Black,Summer,Streetwear,Formal Meeting,Mild & Pleasant,Oversized hoodie,Navy chinos,Black boots,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Pear,Medium,Black,Spring,Bohemian,Casual Outing,Sunny & Warm,Light blue oxford shirt,Maxi skirt,Ballet flats,Minimalist bracelet,The outfit is easy to mix and match.
+Female,Pear,Medium,Black,Spring,Bohemian,Formal Meeting,Hot & Humid,Oversized hoodie,Wide-leg linen pants,Espadrille sandals,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Apple,Dark,Gray,Spring,Bohemian,Travel,Rainy & Cool,Flowy tank top,Slim-fit jeans,Slip-on shoes,Statement necklace,Layering keeps you warm and stylish for casual outings.
+Male,Apple,Olive,Red,Summer,Streetwear,Campus,Sunny & Warm,Light blue oxford shirt,Pleated trousers,High-top sneakers,"Beanie, scarf",Smart layers keep you dry and professional.
+Female,Apple,Dark,Gray,Summer,Bohemian,Wedding Invitation,Sunny & Warm,Denim jacket,Jogger pants,Slip-on shoes,"Beanie, scarf",The outfit is easy to mix and match.
+Female,Hourglass,Medium,Brown,Spring,Elegant,Wedding Invitation,Cold & Windy,Striped t-shirt,Cargo pants,Black boots,Statement necklace,Accessories add a personal touch to your look.
+Male,Apple,Tan,Black,Autumn,Elegant,Travel,Sunny & Warm,Pastel silk blouse,Jogger pants,Brown loafers,"Pearl earrings, clutch bag",Light fabrics keep you cool and accessories protect from the sun.
+Female,Hourglass,Medium,Black,Summer,Elegant,Campus,Hot & Humid,Striped t-shirt,Slim-fit jeans,Brown loafers,"Waterproof trench coat, leather belt",Classic pieces ensure comfort and style.
+Male,Pear,Medium,Gray,Summer,Bohemian,Hangout,Hot & Humid,Pastel silk blouse,Navy chinos,Brown loafers,"Waterproof trench coat, leather belt",Smart layers keep you dry and professional.
+Male,Pear,Dark,Blonde,Spring,Smart Casual,Job Interview,Cold & Windy,Pastel silk blouse,Pleated trousers,White sneakers,Silk scarf,The outfit is easy to mix and match.
+Male,Rectangle,Tan,Gray,Spring,Elegant,Formal Meeting,Sunny & Warm,Flowy tank top,Cargo pants,Black boots,Statement necklace,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Triangle,Dark,Blonde,Winter,Casual,Wedding Invitation,Mild & Pleasant,Striped t-shirt,Maxi skirt,Nude heels,"Leather backpack, watch",Layering keeps you warm and stylish for casual outings.
+Female,Apple,Dark,Blonde,Autumn,Casual,Campus,Rainy & Cool,Denim jacket,High-waisted denim shorts,Espadrille sandals,"Leather backpack, watch",Colors are chosen to match your personal palette.
+Male,Pear,Dark,Brown,Winter,Smart Casual,Formal Meeting,Mild & Pleasant,Flowy tank top,Jogger pants,Espadrille sandals,"Waterproof trench coat, leather belt",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Apple,Tan,Gray,Autumn,Streetwear,Job Interview,Mild & Pleasant,Light blue oxford shirt,Slim-fit jeans,Slip-on shoes,"Waterproof trench coat, leather belt",Shoes are comfortable for long walks.
+Male,Triangle,Medium,Black,Winter,Casual,Campus,Sunny & Warm,Pastel silk blouse,High-waisted denim shorts,Flat sandals,"Beanie, scarf",Classic pieces ensure comfort and style.
+Female,Apple,Medium,Gray,Summer,Streetwear,Beach,Hot & Humid,Pastel silk blouse,Pleated trousers,Brown loafers,Silk scarf,Smart layers keep you dry and professional.
+Male,Hourglass,Light,Red,Summer,Formal,Casual Outing,Mild & Pleasant,Striped t-shirt,Maxi skirt,Nude heels,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Apple,Light,Black,Winter,Streetwear,Formal Meeting,Rainy & Cool,Polo shirt,Pleated trousers,Nude heels,Minimalist bracelet,Colors are chosen to match your personal palette.
+Male,Rectangle,Olive,Blonde,Autumn,Streetwear,Campus,Mild & Pleasant,White linen blouse,A-line floral skirt,Brown loafers,"Straw hat, sunglasses",Layering keeps you warm and stylish for casual outings.
+Female,Pear,Tan,Blonde,Autumn,Casual,Hangout,Cold & Windy,White linen blouse,Pleated trousers,Brown loafers,"Waterproof trench coat, leather belt",Layering keeps you warm and stylish for casual outings.
+Female,Hourglass,Tan,Brown,Winter,Formal,Formal Meeting,Cold & Windy,Light blue oxford shirt,Maxi skirt,Flat sandals,"Leather backpack, watch",Shoes are comfortable for long walks.
+Male,Pear,Light,Brown,Autumn,Elegant,Wedding Invitation,Cold & Windy,Flowy tank top,Wide-leg linen pants,High-top sneakers,"Beanie, scarf",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Pear,Tan,Black,Spring,Streetwear,Beach,Mild & Pleasant,Light blue oxford shirt,Jogger pants,Flat sandals,Statement necklace,Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Rectangle,Medium,Black,Autumn,Bohemian,Casual Outing,Cold & Windy,Light blue oxford shirt,Cargo pants,Flat sandals,"Straw hat, sunglasses",The outfit is easy to mix and match.
+Male,Pear,Dark,Black,Winter,Formal,Casual Outing,Mild & Pleasant,Flowy tank top,Pleated trousers,Slip-on shoes,"Beanie, scarf",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Triangle,Medium,Brown,Spring,Smart Casual,Travel,Sunny & Warm,Oversized hoodie,Maxi skirt,Flat sandals,"Beanie, scarf",Shoes are comfortable for long walks.
+Female,Hourglass,Light,Black,Winter,Elegant,Beach,Mild & Pleasant,Polo shirt,Navy chinos,Espadrille sandals,Silk scarf,The outfit is easy to mix and match.
+Male,Pear,Dark,Blonde,Summer,Smart Casual,Travel,Hot & Humid,Striped t-shirt,Wide-leg linen pants,Black boots,"Crossbody bag, floppy hat",Colors are chosen to match your personal palette.
+Male,Triangle,Dark,Gray,Winter,Formal,Campus,Cold & Windy,Flowy tank top,High-waisted denim shorts,High-top sneakers,"Pearl earrings, clutch bag",Layering keeps you warm and stylish for casual outings.
+Female,Pear,Light,Gray,Autumn,Bohemian,Wedding Invitation,Cold & Windy,Polo shirt,A-line floral skirt,Flat sandals,Silk scarf,Colors are chosen to match your personal palette.
+Male,Pear,Tan,Brown,Autumn,Smart Casual,Job Interview,Cold & Windy,Pastel silk blouse,Navy chinos,Flat sandals,"Leather backpack, watch",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Apple,Olive,Black,Summer,Formal,Campus,Rainy & Cool,Polo shirt,Maxi skirt,Flat sandals,"Waterproof trench coat, leather belt",Layering keeps you warm and stylish for casual outings.
+Male,Hourglass,Tan,Black,Winter,Streetwear,Hangout,Rainy & Cool,White linen blouse,Cargo pants,Flat sandals,"Waterproof trench coat, leather belt",Shoes are comfortable for long walks.
+Male,Pear,Tan,Black,Autumn,Elegant,Beach,Rainy & Cool,White linen blouse,Wide-leg linen pants,Slip-on shoes,"Straw hat, sunglasses",Smart layers keep you dry and professional.
+Male,Triangle,Medium,Blonde,Spring,Smart Casual,Formal Meeting,Rainy & Cool,Polo shirt,Slim-fit jeans,Flat sandals,Statement necklace,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Rectangle,Tan,Blonde,Summer,Elegant,Casual Outing,Mild & Pleasant,Denim jacket,Jogger pants,White sneakers,Silk scarf,The outfit is easy to mix and match.
+Male,Hourglass,Dark,Red,Summer,Smart Casual,Beach,Sunny & Warm,Oversized hoodie,High-waisted denim shorts,Ballet flats,Silk scarf,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Pear,Light,Black,Winter,Streetwear,Job Interview,Cold & Windy,Denim jacket,High-waisted denim shorts,Espadrille sandals,"Beanie, scarf",Accessories add a personal touch to your look.
+Male,Pear,Tan,Black,Spring,Smart Casual,Casual Outing,Rainy & Cool,Polo shirt,Navy chinos,Slip-on shoes,"Pearl earrings, clutch bag",Smart layers keep you dry and professional.
+Female,Hourglass,Olive,Gray,Spring,Elegant,Casual Outing,Mild & Pleasant,Oversized hoodie,Maxi skirt,Brown loafers,"Beanie, scarf",Colors are chosen to match your personal palette.
+Female,Hourglass,Medium,Gray,Winter,Elegant,Campus,Hot & Humid,Denim jacket,Jogger pants,Brown loafers,Silk scarf,Layering keeps you warm and stylish for casual outings.
+Male,Apple,Dark,Red,Winter,Smart Casual,Travel,Sunny & Warm,White linen blouse,Slim-fit jeans,High-top sneakers,Statement necklace,Smart layers keep you dry and professional.
+Male,Apple,Medium,Red,Summer,Smart Casual,Job Interview,Rainy & Cool,Loose cotton tunic,Navy chinos,Nude heels,Minimalist bracelet,Accessories add a personal touch to your look.
+Female,Pear,Dark,Blonde,Winter,Formal,Job Interview,Mild & Pleasant,Light blue oxford shirt,Pleated trousers,Flat sandals,"Leather backpack, watch",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Hourglass,Medium,Gray,Spring,Smart Casual,Travel,Rainy & Cool,Flowy tank top,Cargo pants,High-top sneakers,"Leather backpack, watch",Accessories add a personal touch to your look.
+Male,Pear,Tan,Gray,Summer,Formal,Job Interview,Cold & Windy,Light blue oxford shirt,Pleated trousers,Ballet flats,"Straw hat, sunglasses",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Rectangle,Medium,Brown,Spring,Formal,Formal Meeting,Hot & Humid,Striped t-shirt,A-line floral skirt,Nude heels,"Beanie, scarf",Accessories add a personal touch to your look.
+Female,Hourglass,Olive,Blonde,Winter,Smart Casual,Hangout,Sunny & Warm,Light blue oxford shirt,Jogger pants,White sneakers,"Leather backpack, watch",Classic pieces ensure comfort and style.
+Male,Apple,Tan,Blonde,Autumn,Streetwear,Beach,Cold & Windy,Light blue oxford shirt,Navy chinos,White sneakers,"Leather backpack, watch",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Pear,Tan,Black,Winter,Streetwear,Casual Outing,Hot & Humid,Loose cotton tunic,Navy chinos,Nude heels,"Beanie, scarf",Colors are chosen to match your personal palette.
+Male,Pear,Tan,Brown,Autumn,Streetwear,Wedding Invitation,Mild & Pleasant,Pastel silk blouse,Maxi skirt,Espadrille sandals,"Beanie, scarf",The outfit is easy to mix and match.
+Female,Triangle,Olive,Black,Winter,Smart Casual,Job Interview,Cold & Windy,Flowy tank top,High-waisted denim shorts,Espadrille sandals,"Crossbody bag, floppy hat",The outfit is easy to mix and match.
+Male,Rectangle,Tan,Black,Winter,Elegant,Hangout,Hot & Humid,Denim jacket,Wide-leg linen pants,Black boots,Statement necklace,Layering keeps you warm and stylish for casual outings.
+Male,Triangle,Olive,Blonde,Summer,Formal,Beach,Sunny & Warm,Flowy tank top,Maxi skirt,Brown loafers,"Waterproof trench coat, leather belt",Colors are chosen to match your personal palette.
+Male,Hourglass,Olive,Brown,Autumn,Casual,Hangout,Rainy & Cool,Loose cotton tunic,Maxi skirt,Nude heels,"Pearl earrings, clutch bag",Shoes are comfortable for long walks.
+Female,Pear,Olive,Gray,Autumn,Streetwear,Wedding Invitation,Mild & Pleasant,Oversized hoodie,Jogger pants,High-top sneakers,Minimalist bracelet,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Triangle,Dark,Gray,Autumn,Streetwear,Casual Outing,Mild & Pleasant,Light blue oxford shirt,Slim-fit jeans,Black boots,"Crossbody bag, floppy hat",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Triangle,Tan,Gray,Summer,Smart Casual,Casual Outing,Rainy & Cool,Flowy tank top,Jogger pants,White sneakers,"Crossbody bag, floppy hat",Smart layers keep you dry and professional.
+Male,Hourglass,Light,Blonde,Winter,Bohemian,Casual Outing,Sunny & Warm,White linen blouse,Navy chinos,Slip-on shoes,Minimalist bracelet,Smart layers keep you dry and professional.
+Male,Pear,Dark,Red,Autumn,Casual,Hangout,Sunny & Warm,Light blue oxford shirt,Slim-fit jeans,Black boots,Silk scarf,The outfit is easy to mix and match.
+Female,Hourglass,Medium,Blonde,Winter,Bohemian,Casual Outing,Cold & Windy,Striped t-shirt,Pleated trousers,Ballet flats,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Hourglass,Light,Red,Summer,Streetwear,Casual Outing,Sunny & Warm,Striped t-shirt,Navy chinos,Espadrille sandals,"Leather backpack, watch",Shoes are comfortable for long walks.
+Male,Rectangle,Tan,Blonde,Winter,Streetwear,Wedding Invitation,Rainy & Cool,Oversized hoodie,Pleated trousers,Nude heels,"Leather backpack, watch",Light fabrics keep you cool and accessories protect from the sun.
+Male,Hourglass,Olive,Blonde,Autumn,Formal,Campus,Hot & Humid,Pastel silk blouse,Jogger pants,Flat sandals,"Leather backpack, watch",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Rectangle,Tan,Red,Autumn,Bohemian,Formal Meeting,Hot & Humid,Striped t-shirt,Cargo pants,Nude heels,"Crossbody bag, floppy hat",Smart layers keep you dry and professional.
+Male,Apple,Tan,Gray,Autumn,Elegant,Campus,Mild & Pleasant,White linen blouse,Wide-leg linen pants,Slip-on shoes,"Crossbody bag, floppy hat",Shoes are comfortable for long walks.
+Male,Apple,Olive,Blonde,Spring,Elegant,Travel,Mild & Pleasant,Flowy tank top,A-line floral skirt,Black boots,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Pear,Medium,Brown,Summer,Casual,Beach,Hot & Humid,Loose cotton tunic,High-waisted denim shorts,Slip-on shoes,"Leather backpack, watch",Shoes are comfortable for long walks.
+Male,Rectangle,Olive,Black,Autumn,Smart Casual,Wedding Invitation,Rainy & Cool,White linen blouse,Slim-fit jeans,Espadrille sandals,"Pearl earrings, clutch bag",Colors are chosen to match your personal palette.
+Female,Apple,Dark,Brown,Autumn,Formal,Wedding Invitation,Cold & Windy,Loose cotton tunic,Navy chinos,Flat sandals,"Pearl earrings, clutch bag",Accessories add a personal touch to your look.
+Female,Rectangle,Olive,Brown,Summer,Smart Casual,Formal Meeting,Cold & Windy,Polo shirt,A-line floral skirt,Brown loafers,"Leather backpack, watch",Smart layers keep you dry and professional.
+Male,Apple,Olive,Black,Winter,Streetwear,Job Interview,Cold & Windy,Denim jacket,High-waisted denim shorts,Black boots,"Leather backpack, watch",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Apple,Light,Blonde,Summer,Streetwear,Casual Outing,Hot & Humid,Oversized hoodie,Slim-fit jeans,Ballet flats,"Beanie, scarf",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Rectangle,Medium,Gray,Spring,Casual,Job Interview,Hot & Humid,Light blue oxford shirt,Maxi skirt,Nude heels,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Hourglass,Light,Blonde,Winter,Streetwear,Travel,Mild & Pleasant,Loose cotton tunic,Navy chinos,Flat sandals,"Beanie, scarf",Accessories add a personal touch to your look.
+Male,Pear,Tan,Gray,Spring,Bohemian,Beach,Rainy & Cool,White linen blouse,Slim-fit jeans,Black boots,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Hourglass,Dark,Red,Spring,Casual,Travel,Sunny & Warm,Light blue oxford shirt,Pleated trousers,Espadrille sandals,Silk scarf,Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Pear,Dark,Gray,Winter,Streetwear,Beach,Mild & Pleasant,Striped t-shirt,Navy chinos,Slip-on shoes,"Crossbody bag, floppy hat",Colors are chosen to match your personal palette.
+Male,Pear,Olive,Blonde,Summer,Streetwear,Casual Outing,Sunny & Warm,Polo shirt,Navy chinos,Brown loafers,"Leather backpack, watch",Smart layers keep you dry and professional.
+Male,Rectangle,Light,Black,Summer,Casual,Campus,Rainy & Cool,Denim jacket,A-line floral skirt,Ballet flats,"Beanie, scarf",Colors are chosen to match your personal palette.
+Female,Apple,Tan,Black,Winter,Streetwear,Travel,Mild & Pleasant,Denim jacket,Cargo pants,Flat sandals,Statement necklace,Colors are chosen to match your personal palette.
+Female,Triangle,Tan,Blonde,Winter,Bohemian,Wedding Invitation,Cold & Windy,Oversized hoodie,Pleated trousers,Espadrille sandals,Statement necklace,Breathable fabrics and loose fits are perfect for travel in hot weather.
+Female,Apple,Olive,Blonde,Summer,Bohemian,Wedding Invitation,Sunny & Warm,Denim jacket,Slim-fit jeans,White sneakers,Statement necklace,The outfit is easy to mix and match.
+Female,Rectangle,Tan,Blonde,Summer,Elegant,Wedding Invitation,Hot & Humid,Oversized hoodie,A-line floral skirt,Black boots,"Crossbody bag, floppy hat",Layering keeps you warm and stylish for casual outings.
+Female,Rectangle,Medium,Brown,Summer,Smart Casual,Beach,Rainy & Cool,Flowy tank top,Jogger pants,White sneakers,"Straw hat, sunglasses",Breathable fabrics and loose fits are perfect for travel in hot weather.
+Male,Pear,Medium,Red,Autumn,Bohemian,Campus,Mild & Pleasant,Polo shirt,Maxi skirt,Espadrille sandals,"Beanie, scarf",Light fabrics keep you cool and accessories protect from the sun.
+Male,Pear,Medium,Black,Summer,Elegant,Wedding Invitation,Hot & Humid,Oversized hoodie,A-line floral skirt,High-top sneakers,Minimalist bracelet,Accessories add a personal touch to your look.
+Female,Apple,Dark,Brown,Spring,Smart Casual,Casual Outing,Mild & Pleasant,Loose cotton tunic,Navy chinos,Brown loafers,"Pearl earrings, clutch bag",Light fabrics keep you cool and accessories protect from the sun.
+Male,Pear,Medium,Black,Winter,Casual,Beach,Mild & Pleasant,Denim jacket,Pleated trousers,White sneakers,"Straw hat, sunglasses",Accessories add a personal touch to your look.
+Female,Triangle,Olive,Brown,Winter,Bohemian,Travel,Sunny & Warm,Flowy tank top,Jogger pants,Flat sandals,"Leather backpack, watch",Layering keeps you warm and stylish for casual outings.
+Female,Hourglass,Light,Red,Spring,Formal,Hangout,Sunny & Warm,Flowy tank top,Maxi skirt,Nude heels,Statement necklace,Shoes are comfortable for long walks.
+Male,Apple,Olive,Brown,Winter,Streetwear,Casual Outing,Rainy & Cool,Flowy tank top,Navy chinos,Nude heels,"Beanie, scarf",Shoes are comfortable for long walks.
+Female,Triangle,Light,Blonde,Autumn,Smart Casual,Formal Meeting,Sunny & Warm,Polo shirt,High-waisted denim shorts,High-top sneakers,"Crossbody bag, floppy hat",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Rectangle,Dark,Red,Spring,Elegant,Beach,Mild & Pleasant,Oversized hoodie,Navy chinos,Ballet flats,"Straw hat, sunglasses",Soft colors and flowy fabrics suit the occasion and body shape.
+Female,Triangle,Dark,Brown,Winter,Smart Casual,Formal Meeting,Sunny & Warm,Denim jacket,High-waisted denim shorts,White sneakers,Statement necklace,Soft colors and flowy fabrics suit the occasion and body shape.
+Male,Rectangle,Olive,Brown,Autumn,Formal,Travel,Rainy & Cool,Loose cotton tunic,High-waisted denim shorts,Nude heels,Silk scarf,Smart layers keep you dry and professional.
+Male,Rectangle,Dark,Brown,Summer,Bohemian,Wedding Invitation,Sunny & Warm,Oversized hoodie,Cargo pants,Slip-on shoes,"Pearl earrings, clutch bag",Breathable fabrics and loose fits are perfect for travel in hot weather.

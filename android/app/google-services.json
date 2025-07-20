@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1020357822298",
+    "project_id": "fitoutfit-f47ae",
+    "storage_bucket": "fitoutfit-f47ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020357822298:android:b455e8af1a958a58cc1563",
+        "android_client_info": {
+          "package_name": "com.example.fitoutfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020357822298-vpq75rjm4iaj5buksckp86ke5s382teb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitoutfit",
+            "certificate_hash": "7f2793055105c3f67c569e34911935341adb21e0"
+          }
+        },
+        {
+          "client_id": "1020357822298-8b145vmidssfalial6fa6mcqg16gqv3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-pLjWmgWkBBJbmOJ_da-VP7_0X73zD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020357822298-8b145vmidssfalial6fa6mcqg16gqv3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
