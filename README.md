@@ -30,6 +30,12 @@ Coba outfit secara virtual berdasarkan bentuk tubuh, skin tone, personal color, 
 ### 🧥 Wardrobe Assistant  
 Unggah pakaian dan dapatkan ide mix & match otomatis untuk tampil maksimal dari isi lemari kamu.
 
+### 💸 Budget Quiz  
+Tes gaya belanja & budget fashion kamu agar rekomendasi lebih tepat dan menghindari over budget.
+
+### 📅 Outfit Planner  
+Rencanakan outfit untuk acara tertentu, pilih tanggal, dan dapatkan reminder otomatis agar selalu tampil maksimal sesuai jadwalmu.
+
 ### 🌍 Komunitas  
 Bagikan style kamu, cari inspirasi outfit dari pengguna lain, dan jadi bagian dari komunitas fashion yang inklusif.
 
